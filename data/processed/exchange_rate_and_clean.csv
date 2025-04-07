@@ -1,0 +1,388 @@
+country_code,date_start,date_end,country_name,indicator_code,indicator_name,currency,currency_name,year,month,indicator_value
+AND,1999-01-01,1999-12-31,Andorra,LCU,Local currency units per USD,EUR,Euro,1999,Annual value,0.938627275833333
+AND,1999-01-01,1999-01-31,Andorra,LCU,Local currency units per USD,EUR,Euro,1999,January,0.861489687968435
+AND,1999-02-01,1999-02-28,Andorra,LCU,Local currency units per USD,EUR,Euro,1999,February,0.892247705808086
+AND,1999-03-01,1999-03-31,Andorra,LCU,Local currency units per USD,EUR,Euro,1999,March,0.918867954679846
+AND,1999-04-01,1999-04-30,Andorra,LCU,Local currency units per USD,EUR,Euro,1999,April,0.934194490800315
+AND,1999-05-01,1999-05-31,Andorra,LCU,Local currency units per USD,EUR,Euro,1999,May,0.940902370177896
+AND,1999-06-01,1999-06-30,Andorra,LCU,Local currency units per USD,EUR,Euro,1999,June,0.963619002566773
+AND,1999-07-01,1999-07-31,Andorra,LCU,Local currency units per USD,EUR,Euro,1999,July,0.965933289134551
+AND,1999-08-01,1999-08-31,Andorra,LCU,Local currency units per USD,EUR,Euro,1999,August,0.943080787729702
+AND,1999-09-01,1999-09-30,Andorra,LCU,Local currency units per USD,EUR,Euro,1999,September,0.952310868897069
+AND,1999-10-01,1999-10-31,Andorra,LCU,Local currency units per USD,EUR,Euro,1999,October,0.934026588623585
+AND,1999-11-01,1999-11-30,Andorra,LCU,Local currency units per USD,EUR,Euro,1999,November,0.967283823057434
+AND,1999-12-01,1999-12-31,Andorra,LCU,Local currency units per USD,EUR,Euro,1999,December,0.989106342419659
+AND,2000-01-01,2000-12-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2000,Annual value,1.08540083333333
+AND,2000-01-01,2000-01-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2000,January,0.986489787481951
+AND,2000-02-01,2000-02-29,Andorra,LCU,Local currency units per USD,EUR,Euro,2000,February,1.01685559197944
+AND,2000-03-01,2000-03-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2000,March,1.03697491873269
+AND,2000-04-01,2000-04-30,Andorra,LCU,Local currency units per USD,EUR,Euro,2000,April,1.05602196525688
+AND,2000-05-01,2000-05-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2000,May,1.10379152388452
+AND,2000-06-01,2000-06-30,Andorra,LCU,Local currency units per USD,EUR,Euro,2000,June,1.05354397827781
+AND,2000-07-01,2000-07-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2000,July,1.06421795183659
+AND,2000-08-01,2000-08-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2000,August,1.10612553082006
+AND,2000-09-01,2000-09-30,Andorra,LCU,Local currency units per USD,EUR,Euro,2000,September,1.14663871052285
+AND,2000-10-01,2000-10-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2000,October,1.1693730565817
+AND,2000-11-01,2000-11-30,Andorra,LCU,Local currency units per USD,EUR,Euro,2000,November,1.16769724794985
+AND,2000-12-01,2000-12-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2000,December,1.11443486421489
+AND,2001-01-01,2001-12-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2001,Annual value,1.11751
+AND,2001-01-01,2001-01-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2001,January,1.06577787251361
+AND,2001-02-01,2001-02-28,Andorra,LCU,Local currency units per USD,EUR,Euro,2001,February,1.08494583407923
+AND,2001-03-01,2001-03-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2001,March,1.0994777480697
+AND,2001-04-01,2001-04-30,Andorra,LCU,Local currency units per USD,EUR,Euro,2001,April,1.12107623318386
+AND,2001-05-01,2001-05-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2001,May,1.14395058133493
+AND,2001-06-01,2001-06-30,Andorra,LCU,Local currency units per USD,EUR,Euro,2001,June,1.17210392654811
+AND,2001-07-01,2001-07-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2001,July,1.16189409863429
+AND,2001-08-01,2001-08-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2001,August,1.11051561722935
+AND,2001-09-01,2001-09-30,Andorra,LCU,Local currency units per USD,EUR,Euro,2001,September,1.09758038404338
+AND,2001-10-01,2001-10-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2001,October,1.1039169854427
+AND,2001-11-01,2001-11-30,Andorra,LCU,Local currency units per USD,EUR,Euro,2001,November,1.12573428577275
+AND,2001-12-01,2001-12-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2001,December,1.12060861499004
+AND,2002-01-01,2002-12-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2002,Annual value,1.06255166666667
+AND,2002-01-01,2002-01-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2002,January,1.13213567102191
+AND,2002-02-01,2002-02-28,Andorra,LCU,Local currency units per USD,EUR,Euro,2002,February,1.14937904796934
+AND,2002-03-01,2002-03-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2002,March,1.14181319936058
+AND,2002-04-01,2002-04-30,Andorra,LCU,Local currency units per USD,EUR,Euro,2002,April,1.12886839007235
+AND,2002-05-01,2002-05-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2002,May,1.09051254089422
+AND,2002-06-01,2002-06-30,Andorra,LCU,Local currency units per USD,EUR,Euro,2002,June,1.04663819810768
+AND,2002-07-01,2002-07-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2002,July,1.0078789844085
+AND,2002-08-01,2002-08-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2002,August,1.02274681902494
+AND,2002-09-01,2002-09-30,Andorra,LCU,Local currency units per USD,EUR,Euro,2002,September,1.01958080663411
+AND,2002-10-01,2002-10-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2002,October,1.01925505749925
+AND,2002-11-01,2002-11-30,Andorra,LCU,Local currency units per USD,EUR,Euro,2002,November,0.998639947500076
+AND,2002-12-01,2002-12-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2002,December,0.982072270698401
+AND,2003-01-01,2003-12-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2003,Annual value,0.886034166666667
+AND,2003-01-01,2003-01-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2003,January,0.941454375837113
+AND,2003-02-01,2003-02-28,Andorra,LCU,Local currency units per USD,EUR,Euro,2003,February,0.928250850509842
+AND,2003-03-01,2003-03-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2003,March,0.925366952061569
+AND,2003-04-01,2003-04-30,Andorra,LCU,Local currency units per USD,EUR,Euro,2003,April,0.92186290054943
+AND,2003-05-01,2003-05-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2003,May,0.863422937447028
+AND,2003-06-01,2003-06-30,Andorra,LCU,Local currency units per USD,EUR,Euro,2003,June,0.85742633278754
+AND,2003-07-01,2003-07-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2003,July,0.879366244570832
+AND,2003-08-01,2003-08-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2003,August,0.897773521666241
+AND,2003-09-01,2003-09-30,Andorra,LCU,Local currency units per USD,EUR,Euro,2003,September,0.891128411604134
+AND,2003-10-01,2003-10-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2003,October,0.855292026447136
+AND,2003-11-01,2003-11-30,Andorra,LCU,Local currency units per USD,EUR,Euro,2003,November,0.854558428296139
+AND,2003-12-01,2003-12-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2003,December,0.813959798137973
+AND,2004-01-01,2004-12-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2004,Annual value,0.805365
+AND,2004-01-01,2004-01-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2004,January,0.792820818719662
+AND,2004-02-01,2004-02-29,Andorra,LCU,Local currency units per USD,EUR,Euro,2004,February,0.790735740069348
+AND,2004-03-01,2004-03-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2004,March,0.815550780446641
+AND,2004-04-01,2004-04-30,Andorra,LCU,Local currency units per USD,EUR,Euro,2004,April,0.834348457289703
+AND,2004-05-01,2004-05-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2004,May,0.832830990830934
+AND,2004-06-01,2004-06-30,Andorra,LCU,Local currency units per USD,EUR,Euro,2004,June,0.823837359526381
+AND,2004-07-01,2004-07-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2004,July,0.815270762537543
+AND,2004-08-01,2004-08-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2004,August,0.821290845220243
+AND,2004-09-01,2004-09-30,Andorra,LCU,Local currency units per USD,EUR,Euro,2004,September,0.81847674037919
+AND,2004-10-01,2004-10-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2004,October,0.800661880487849
+AND,2004-11-01,2004-11-30,Andorra,LCU,Local currency units per USD,EUR,Euro,2004,November,0.76974213638429
+AND,2004-12-01,2004-12-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2004,December,0.745845156060002
+AND,2005-01-01,2005-12-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2005,Annual value,0.80412
+AND,2005-01-01,2005-01-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2005,January,0.762236620025028
+AND,2005-02-01,2005-02-28,Andorra,LCU,Local currency units per USD,EUR,Euro,2005,February,0.768388497224197
+AND,2005-03-01,2005-03-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2005,March,0.757537498106137
+AND,2005-04-01,2005-04-30,Andorra,LCU,Local currency units per USD,EUR,Euro,2005,April,0.772922678287484
+AND,2005-05-01,2005-05-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2005,May,0.787776572240874
+AND,2005-06-01,2005-06-30,Andorra,LCU,Local currency units per USD,EUR,Euro,2005,June,0.822036558207668
+AND,2005-07-01,2005-07-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2005,July,0.830758640878896
+AND,2005-08-01,2005-08-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2005,August,0.81350848524718
+AND,2005-09-01,2005-09-30,Andorra,LCU,Local currency units per USD,EUR,Euro,2005,September,0.815899659176467
+AND,2005-10-01,2005-10-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2005,October,0.832325954697674
+AND,2005-11-01,2005-11-30,Andorra,LCU,Local currency units per USD,EUR,Euro,2005,November,0.848483913516368
+AND,2005-12-01,2005-12-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2005,December,0.843448015487329
+AND,2006-01-01,2006-12-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2006,Annual value,0.797140833333333
+AND,2006-01-01,2006-01-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2006,January,0.826232118646957
+AND,2006-02-01,2006-02-28,Andorra,LCU,Local currency units per USD,EUR,Euro,2006,February,0.837636691837649
+AND,2006-03-01,2006-03-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2006,March,0.831946755407654
+AND,2006-04-01,2006-04-30,Andorra,LCU,Local currency units per USD,EUR,Euro,2006,April,0.814918440246083
+AND,2006-05-01,2006-05-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2006,May,0.783110443489677
+AND,2006-06-01,2006-06-30,Andorra,LCU,Local currency units per USD,EUR,Euro,2006,June,0.790516674511917
+AND,2006-07-01,2006-07-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2006,July,0.788415547554577
+AND,2006-08-01,2006-08-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2006,August,0.780560646168471
+AND,2006-09-01,2006-09-30,Andorra,LCU,Local currency units per USD,EUR,Euro,2006,September,0.785704664840812
+AND,2006-10-01,2006-10-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2006,October,0.792955670173722
+AND,2006-11-01,2006-11-30,Andorra,LCU,Local currency units per USD,EUR,Euro,2006,November,0.776312585791368
+AND,2006-12-01,2006-12-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2006,December,0.756842453284908
+AND,2007-01-01,2007-12-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2007,Annual value,0.7306375
+AND,2007-01-01,2007-01-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2007,January,0.769311466237739
+AND,2007-02-01,2007-02-28,Andorra,LCU,Local currency units per USD,EUR,Euro,2007,February,0.764865154273302
+AND,2007-03-01,2007-03-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2007,March,0.755180711311557
+AND,2007-04-01,2007-04-30,Andorra,LCU,Local currency units per USD,EUR,Euro,2007,April,0.739855222014968
+AND,2007-05-01,2007-05-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2007,May,0.740120235896514
+AND,2007-06-01,2007-06-30,Andorra,LCU,Local currency units per USD,EUR,Euro,2007,June,0.745235813903995
+AND,2007-07-01,2007-07-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2007,July,0.729097278147293
+AND,2007-08-01,2007-08-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2007,August,0.734080819106504
+AND,2007-09-01,2007-09-30,Andorra,LCU,Local currency units per USD,EUR,Euro,2007,September,0.719608245271274
+AND,2007-10-01,2007-10-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2007,October,0.702865245452746
+AND,2007-11-01,2007-11-30,Andorra,LCU,Local currency units per USD,EUR,Euro,2007,November,0.681030212976738
+AND,2007-12-01,2007-12-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2007,December,0.686324443625654
+AND,2008-01-01,2008-12-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2008,Annual value,0.682674711239873
+AND,2008-01-01,2008-01-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2008,January,0.6794443380668
+AND,2008-02-01,2008-02-29,Andorra,LCU,Local currency units per USD,EUR,Euro,2008,February,0.678040527450953
+AND,2008-03-01,2008-03-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2008,March,0.644059063605937
+AND,2008-04-01,2008-04-30,Andorra,LCU,Local currency units per USD,EUR,Euro,2008,April,0.634900479349862
+AND,2008-05-01,2008-05-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2008,May,0.64279745452208
+AND,2008-06-01,2008-06-30,Andorra,LCU,Local currency units per USD,EUR,Euro,2008,June,0.642972615490125
+AND,2008-07-01,2008-07-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2008,July,0.634127647138289
+AND,2008-08-01,2008-08-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2008,August,0.667762645357617
+AND,2008-09-01,2008-09-30,Andorra,LCU,Local currency units per USD,EUR,Euro,2008,September,0.695918438359024
+AND,2008-10-01,2008-10-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2008,October,0.750633142737773
+AND,2008-11-01,2008-11-30,Andorra,LCU,Local currency units per USD,EUR,Euro,2008,November,0.785413304115958
+AND,2008-12-01,2008-12-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2008,December,0.743526012788624
+AND,2009-01-01,2009-12-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2009,Annual value,0.719843359785615
+AND,2009-01-01,2009-01-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2009,January,0.755363077852735
+AND,2009-02-01,2009-02-28,Andorra,LCU,Local currency units per USD,EUR,Euro,2009,February,0.782184955454567
+AND,2009-03-01,2009-03-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2009,March,0.7662942012428
+AND,2009-04-01,2009-04-30,Andorra,LCU,Local currency units per USD,EUR,Euro,2009,April,0.758132870366861
+AND,2009-05-01,2009-05-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2009,May,0.732576581724412
+AND,2009-06-01,2009-06-30,Andorra,LCU,Local currency units per USD,EUR,Euro,2009,June,0.713447182207901
+AND,2009-07-01,2009-07-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2009,July,0.709839298555318
+AND,2009-08-01,2009-08-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2009,August,0.700869077656294
+AND,2009-09-01,2009-09-30,Andorra,LCU,Local currency units per USD,EUR,Euro,2009,September,0.686736006193127
+AND,2009-10-01,2009-10-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2009,October,0.674929439194977
+AND,2009-11-01,2009-11-30,Andorra,LCU,Local currency units per USD,EUR,Euro,2009,November,0.670489521206634
+AND,2009-12-01,2009-12-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2009,December,0.684294507914484
+AND,2010-01-01,2010-12-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2010,Annual value,0.755044951989835
+AND,2010-01-01,2010-01-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2010,January,0.700667736352744
+AND,2010-02-01,2010-02-28,Andorra,LCU,Local currency units per USD,EUR,Euro,2010,February,0.730689698005948
+AND,2010-03-01,2010-03-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2010,March,0.736999961547852
+AND,2010-04-01,2010-04-30,Andorra,LCU,Local currency units per USD,EUR,Euro,2010,April,0.745951349053015
+AND,2010-05-01,2010-05-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2010,May,0.79584040747031
+AND,2010-06-01,2010-06-30,Andorra,LCU,Local currency units per USD,EUR,Euro,2010,June,0.819101445714052
+AND,2010-07-01,2010-07-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2010,July,0.783085356303837
+AND,2010-08-01,2010-08-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2010,August,0.775543585549497
+AND,2010-09-01,2010-09-30,Andorra,LCU,Local currency units per USD,EUR,Euro,2010,September,0.765286599831637
+AND,2010-10-01,2010-10-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2010,October,0.719537851117315
+AND,2010-11-01,2010-11-30,Andorra,LCU,Local currency units per USD,EUR,Euro,2010,November,0.73201326940415
+AND,2010-12-01,2010-12-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2010,December,0.756422188822689
+AND,2011-01-01,2011-12-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2011,Annual value,0.719355253609154
+AND,2011-01-01,2011-01-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2011,January,0.748521669702319
+AND,2011-02-01,2011-02-28,Andorra,LCU,Local currency units per USD,EUR,Euro,2011,February,0.732657090838489
+AND,2011-03-01,2011-03-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2011,March,0.714327864066538
+AND,2011-04-01,2011-04-30,Andorra,LCU,Local currency units per USD,EUR,Euro,2011,April,0.692434965779145
+AND,2011-05-01,2011-05-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2011,May,0.696930338644805
+AND,2011-06-01,2011-06-30,Andorra,LCU,Local currency units per USD,EUR,Euro,2011,June,0.695003869907916
+AND,2011-07-01,2011-07-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2011,July,0.701051577366035
+AND,2011-08-01,2011-08-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2011,August,0.697193644019005
+AND,2011-09-01,2011-09-30,Andorra,LCU,Local currency units per USD,EUR,Euro,2011,September,0.726216412490922
+AND,2011-10-01,2011-10-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2011,October,0.729589727376656
+AND,2011-11-01,2011-11-30,Andorra,LCU,Local currency units per USD,EUR,Euro,2011,November,0.737695573155944
+AND,2011-12-01,2011-12-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2011,December,0.758780170544854
+AND,2012-01-01,2012-12-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2012,Annual value,0.778293601412852
+AND,2012-01-01,2012-01-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2012,January,0.77490164032586
+AND,2012-02-01,2012-02-29,Andorra,LCU,Local currency units per USD,EUR,Euro,2012,February,0.756195400891604
+AND,2012-03-01,2012-03-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2012,March,0.757518369820468
+AND,2012-04-01,2012-04-30,Andorra,LCU,Local currency units per USD,EUR,Euro,2012,April,0.759778144781739
+AND,2012-05-01,2012-05-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2012,May,0.781927522427109
+AND,2012-06-01,2012-06-30,Andorra,LCU,Local currency units per USD,EUR,Euro,2012,June,0.798321244468756
+AND,2012-07-01,2012-07-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2012,July,0.813771981090868
+AND,2012-08-01,2012-08-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2012,August,0.806454440583601
+AND,2012-09-01,2012-09-30,Andorra,LCU,Local currency units per USD,EUR,Euro,2012,September,0.777865071524693
+AND,2012-10-01,2012-10-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2012,October,0.770761981997709
+AND,2012-11-01,2012-11-30,Andorra,LCU,Local currency units per USD,EUR,Euro,2012,November,0.779561319584723
+AND,2012-12-01,2012-12-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2012,December,0.762231814753577
+AND,2013-01-01,2013-12-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2013,Annual value,0.75315918184727
+AND,2013-01-01,2013-01-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2013,January,0.752556125293779
+AND,2013-02-01,2013-02-28,Andorra,LCU,Local currency units per USD,EUR,Euro,2013,February,0.748556222186458
+AND,2013-03-01,2013-03-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2013,March,0.771390663087414
+AND,2013-04-01,2013-04-30,Andorra,LCU,Local currency units per USD,EUR,Euro,2013,April,0.767695378473822
+AND,2013-05-01,2013-05-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2013,May,0.770294637698947
+AND,2013-06-01,2013-06-30,Andorra,LCU,Local currency units per USD,EUR,Euro,2013,June,0.758221969481566
+AND,2013-07-01,2013-07-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2013,July,0.764518370046812
+AND,2013-08-01,2013-08-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2013,August,0.751343025658364
+AND,2013-09-01,2013-09-30,Andorra,LCU,Local currency units per USD,EUR,Euro,2013,September,0.749181251917534
+AND,2013-10-01,2013-10-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2013,October,0.733409012640152
+AND,2013-11-01,2013-11-30,Andorra,LCU,Local currency units per USD,EUR,Euro,2013,November,0.741130258936783
+AND,2013-12-01,2013-12-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2013,December,0.729735252050556
+AND,2014-01-01,2014-12-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2014,Annual value,0.753730736717402
+AND,2014-01-01,2014-01-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2014,January,0.734741588043765
+AND,2014-02-01,2014-02-28,Andorra,LCU,Local currency units per USD,EUR,Euro,2014,February,0.732144818245049
+AND,2014-03-01,2014-03-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2014,March,0.723456883692238
+AND,2014-04-01,2014-04-30,Andorra,LCU,Local currency units per USD,EUR,Euro,2014,April,0.723981900452489
+AND,2014-05-01,2014-05-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2014,May,0.728218465539654
+AND,2014-06-01,2014-06-30,Andorra,LCU,Local currency units per USD,EUR,Euro,2014,June,0.735706278026903
+AND,2014-07-01,2014-07-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2014,July,0.738597499686925
+AND,2014-08-01,2014-08-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2014,August,0.750970898089687
+AND,2014-09-01,2014-09-30,Andorra,LCU,Local currency units per USD,EUR,Euro,2014,September,0.775111862734714
+AND,2014-10-01,2014-10-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2014,October,0.789095387908987
+AND,2014-11-01,2014-11-30,Andorra,LCU,Local currency units per USD,EUR,Euro,2014,November,0.801783165760652
+AND,2014-12-01,2014-12-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2014,December,0.810942314970017
+AND,2015-01-01,2015-12-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2015,Annual value,0.901658961641278
+AND,2015-01-01,2015-01-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2015,January,0.860486461679694
+AND,2015-02-01,2015-02-28,Andorra,LCU,Local currency units per USD,EUR,Euro,2015,February,0.881084438727185
+AND,2015-03-01,2015-03-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2015,March,0.922706549958253
+AND,2015-04-01,2015-04-30,Andorra,LCU,Local currency units per USD,EUR,Euro,2015,April,0.927704025307766
+AND,2015-05-01,2015-05-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2015,May,0.89689718419129
+AND,2015-06-01,2015-06-30,Andorra,LCU,Local currency units per USD,EUR,Euro,2015,June,0.891803916640677
+AND,2015-07-01,2015-07-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2015,July,0.909439587509807
+AND,2015-08-01,2015-08-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2015,August,0.897742818057425
+AND,2015-09-01,2015-09-30,Andorra,LCU,Local currency units per USD,EUR,Euro,2015,September,0.891171728792124
+AND,2015-10-01,2015-10-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2015,October,0.890068454355664
+AND,2015-11-01,2015-11-30,Andorra,LCU,Local currency units per USD,EUR,Euro,2015,November,0.931445603576751
+AND,2015-12-01,2015-12-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2015,December,0.919355782329967
+AND,2016-01-01,2016-12-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2016,Annual value,0.904035127950359
+AND,2016-01-01,2016-01-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2016,January,0.920839990239096
+AND,2016-02-01,2016-02-29,Andorra,LCU,Local currency units per USD,EUR,Euro,2016,February,0.901473264878633
+AND,2016-03-01,2016-03-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2016,March,0.900927955794441
+AND,2016-04-01,2016-04-30,Andorra,LCU,Local currency units per USD,EUR,Euro,2016,April,0.881897170789923
+AND,2016-05-01,2016-05-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2016,May,0.88408802301843
+AND,2016-06-01,2016-06-30,Andorra,LCU,Local currency units per USD,EUR,Euro,2016,June,0.890558461114986
+AND,2016-07-01,2016-07-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2016,July,0.903462844014973
+AND,2016-08-01,2016-08-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2016,August,0.891922286423374
+AND,2016-09-01,2016-09-30,Andorra,LCU,Local currency units per USD,EUR,Euro,2016,September,0.891894302417026
+AND,2016-10-01,2016-10-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2016,October,0.906943298768685
+AND,2016-11-01,2016-11-30,Andorra,LCU,Local currency units per USD,EUR,Euro,2016,November,0.926015565479784
+AND,2016-12-01,2016-12-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2016,December,0.948505200970164
+AND,2017-01-01,2017-12-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2017,Annual value,0.88520550826938
+AND,2017-01-01,2017-01-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2017,January,0.94211556332088
+AND,2017-02-01,2017-02-28,Andorra,LCU,Local currency units per USD,EUR,Euro,2017,February,0.939615603256708
+AND,2017-03-01,2017-03-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2017,March,0.935918094959056
+AND,2017-04-01,2017-04-30,Andorra,LCU,Local currency units per USD,EUR,Euro,2017,April,0.932603829893032
+AND,2017-05-01,2017-05-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2017,May,0.904363554148768
+AND,2017-06-01,2017-06-30,Andorra,LCU,Local currency units per USD,EUR,Euro,2017,June,0.890515203523166
+AND,2017-07-01,2017-07-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2017,July,0.868723472908227
+AND,2017-08-01,2017-08-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2017,August,0.846973909521076
+AND,2017-09-01,2017-09-30,Andorra,LCU,Local currency units per USD,EUR,Euro,2017,September,0.839308409870297
+AND,2017-10-01,2017-10-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2017,October,0.850639332789413
+AND,2017-11-01,2017-11-30,Andorra,LCU,Local currency units per USD,EUR,Euro,2017,November,0.851933889930141
+AND,2017-12-01,2017-12-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2017,December,0.844864999466386
+AND,2018-01-01,2018-12-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2018,Annual value,0.846772667108096
+AND,2018-01-01,2018-01-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2018,January,0.819705725644494
+AND,2018-02-01,2018-02-28,Andorra,LCU,Local currency units per USD,EUR,Euro,2018,February,0.809860865903238
+AND,2018-03-01,2018-03-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2018,March,0.810623021693847
+AND,2018-04-01,2018-04-30,Andorra,LCU,Local currency units per USD,EUR,Euro,2018,April,0.814577682200663
+AND,2018-05-01,2018-05-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2018,May,0.846580392428512
+AND,2018-06-01,2018-06-30,Andorra,LCU,Local currency units per USD,EUR,Euro,2018,June,0.856290062142172
+AND,2018-07-01,2018-07-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2018,July,0.855744770232549
+AND,2018-08-01,2018-08-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2018,August,0.865879093161071
+AND,2018-09-01,2018-09-30,Andorra,LCU,Local currency units per USD,EUR,Euro,2018,September,0.857728563218884
+AND,2018-10-01,2018-10-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2018,October,0.870773436109829
+AND,2018-11-01,2018-11-30,Andorra,LCU,Local currency units per USD,EUR,Euro,2018,November,0.8797501509571
+AND,2018-12-01,2018-12-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2018,December,0.878409616273678
+AND,2019-01-01,2019-12-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2019,Annual value,0.893276257067393
+AND,2019-01-01,2019-01-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2019,January,0.875932170997893
+AND,2019-02-01,2019-02-28,Andorra,LCU,Local currency units per USD,EUR,Euro,2019,February,0.880968007646802
+AND,2019-03-01,2019-03-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2019,March,0.884761872661716
+AND,2019-04-01,2019-04-30,Andorra,LCU,Local currency units per USD,EUR,Euro,2019,April,0.889818254621494
+AND,2019-05-01,2019-05-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2019,May,0.894087238530276
+AND,2019-06-01,2019-06-30,Andorra,LCU,Local currency units per USD,EUR,Euro,2019,June,0.885472931092496
+AND,2019-07-01,2019-07-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2019,July,0.89139340291368
+AND,2019-08-01,2019-08-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2019,August,0.898777254398924
+AND,2019-09-01,2019-09-30,Andorra,LCU,Local currency units per USD,EUR,Euro,2019,September,0.908768316009016
+AND,2019-10-01,2019-10-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2019,October,0.904767337112401
+AND,2019-11-01,2019-11-30,Andorra,LCU,Local currency units per USD,EUR,Euro,2019,November,0.904899383806641
+AND,2019-12-01,2019-12-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2019,December,0.899810589870832
+AND,2020-01-01,2020-12-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2020,Annual value,0.875506396987983
+AND,2020-01-01,2020-01-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2020,January,0.900871388324677
+AND,2020-02-01,2020-02-29,Andorra,LCU,Local currency units per USD,EUR,Euro,2020,February,0.917010545621275
+AND,2020-03-01,2020-03-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2020,March,0.903880523429001
+AND,2020-04-01,2020-04-30,Andorra,LCU,Local currency units per USD,EUR,Euro,2020,April,0.920649241845349
+AND,2020-05-01,2020-05-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2020,May,0.917275508285291
+AND,2020-06-01,2020-06-30,Andorra,LCU,Local currency units per USD,EUR,Euro,2020,June,0.888526298359046
+AND,2020-07-01,2020-07-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2020,July,0.872342200881432
+AND,2020-08-01,2020-08-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2020,August,0.845444663633819
+AND,2020-09-01,2020-09-30,Andorra,LCU,Local currency units per USD,EUR,Euro,2020,September,0.848003145320764
+AND,2020-10-01,2020-10-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2020,October,0.849243787009645
+AND,2020-11-01,2020-11-30,Andorra,LCU,Local currency units per USD,EUR,Euro,2020,November,0.844744082768813
+AND,2020-12-01,2020-12-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2020,December,0.821711101316997
+AND,2021-01-01,2021-12-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2021,Annual value,0.84549413889045
+AND,2021-01-01,2021-01-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2021,January,0.821635300739061
+AND,2021-02-01,2021-02-28,Andorra,LCU,Local currency units per USD,EUR,Euro,2021,February,0.826589738714984
+AND,2021-03-01,2021-03-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2021,March,0.840400615319389
+AND,2021-04-01,2021-04-30,Andorra,LCU,Local currency units per USD,EUR,Euro,2021,April,0.834787254468199
+AND,2021-05-01,2021-05-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2021,May,0.823322773892027
+AND,2021-06-01,2021-06-30,Andorra,LCU,Local currency units per USD,EUR,Euro,2021,June,0.830075914215421
+AND,2021-07-01,2021-07-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2021,July,0.845893571208872
+AND,2021-08-01,2021-08-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2021,August,0.849486446829884
+AND,2021-09-01,2021-09-30,Andorra,LCU,Local currency units per USD,EUR,Euro,2021,September,0.849594704707926
+AND,2021-10-01,2021-10-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2021,October,0.861959274476579
+AND,2021-11-01,2021-11-30,Andorra,LCU,Local currency units per USD,EUR,Euro,2021,November,0.87611356024678
+AND,2021-12-01,2021-12-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2021,December,0.884659617596237
+AND,2022-01-01,2022-12-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2022,Annual value,0.950915533962108
+AND,2022-01-01,2022-01-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2022,January,0.883823504654819
+AND,2022-02-01,2022-02-28,Andorra,LCU,Local currency units per USD,EUR,Euro,2022,February,0.881686489917915
+AND,2022-03-01,2022-03-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2022,March,0.907526949604645
+AND,2022-04-01,2022-04-30,Andorra,LCU,Local currency units per USD,EUR,Euro,2022,April,0.924322325789588
+AND,2022-05-01,2022-05-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2022,May,0.945313607789384
+AND,2022-06-01,2022-06-30,Andorra,LCU,Local currency units per USD,EUR,Euro,2022,June,0.946448237885479
+AND,2022-07-01,2022-07-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2022,July,0.982423967402214
+AND,2022-08-01,2022-08-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2022,August,0.98731938494292
+AND,2022-09-01,2022-09-30,Andorra,LCU,Local currency units per USD,EUR,Euro,2022,September,1.00971622384488
+AND,2022-10-01,2022-10-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2022,October,1.01774264680934
+AND,2022-11-01,2022-11-30,Andorra,LCU,Local currency units per USD,EUR,Euro,2022,November,0.980269841552721
+AND,2022-12-01,2022-12-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2022,December,0.944393227351384
+AND,2023-01-01,2023-12-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2023,Annual value,0.924839558470698
+AND,2023-01-01,2023-01-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2023,January,0.928591326957006
+AND,2023-02-01,2023-02-28,Andorra,LCU,Local currency units per USD,EUR,Euro,2023,February,0.933262405390524
+AND,2023-03-01,2023-03-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2023,March,0.934070843181647
+AND,2023-04-01,2023-04-30,Andorra,LCU,Local currency units per USD,EUR,Euro,2023,April,0.911766344678089
+AND,2023-05-01,2023-05-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2023,May,0.920174833218312
+AND,2023-06-01,2023-06-30,Andorra,LCU,Local currency units per USD,EUR,Euro,2023,June,0.922520830100985
+AND,2023-07-01,2023-07-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2023,July,0.904310979627154
+AND,2023-08-01,2023-08-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2023,August,0.916685266077895
+AND,2023-09-01,2023-09-30,Andorra,LCU,Local currency units per USD,EUR,Euro,2023,September,0.935995721162376
+AND,2023-10-01,2023-10-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2023,October,0.94674148793339
+AND,2023-11-01,2023-11-30,Andorra,LCU,Local currency units per USD,EUR,Euro,2023,November,0.9252211068168
+AND,2023-12-01,2023-12-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2023,December,0.917174330704096
+AND,2024-01-01,2024-01-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2024,January,0.916999078832774
+AND,2024-02-01,2024-02-29,Andorra,LCU,Local currency units per USD,EUR,Euro,2024,February,0.926379312626575
+AND,2024-03-01,2024-03-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2024,March,0.919777046044039
+AND,2024-04-01,2024-04-30,Andorra,LCU,Local currency units per USD,EUR,Euro,2024,April,0.932160882090518
+AND,2024-05-01,2024-05-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2024,May,0.924878819854649
+AND,2024-06-01,2024-06-30,Andorra,LCU,Local currency units per USD,EUR,Euro,2024,June,0.929454410261177
+AND,2024-07-01,2024-07-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2024,July,0.922161546665362
+AND,2024-08-01,2024-08-31,Andorra,LCU,Local currency units per USD,EUR,Euro,2024,August,0.908085260950668
+AND,1970-01-01,1970-12-31,Andorra,SLC,Standard local currency units per USD,EUR,Euro,1970,Annual value,0.420708473489356
+AND,1971-01-01,1971-12-31,Andorra,SLC,Standard local currency units per USD,EUR,Euro,1971,Annual value,0.417515095664098
+AND,1972-01-01,1972-12-31,Andorra,SLC,Standard local currency units per USD,EUR,Euro,1972,Annual value,0.386278993821095
+AND,1973-01-01,1973-12-31,Andorra,SLC,Standard local currency units per USD,EUR,Euro,1973,Annual value,0.350150152851402
+AND,1974-01-01,1974-12-31,Andorra,SLC,Standard local currency units per USD,EUR,Euro,1974,Annual value,0.34670284758934
+AND,1975-01-01,1975-12-31,Andorra,SLC,Standard local currency units per USD,EUR,Euro,1975,Annual value,0.345022517914167
+AND,1976-01-01,1976-12-31,Andorra,SLC,Standard local currency units per USD,EUR,Euro,1976,Annual value,0.402094627348956
+AND,1977-01-01,1977-12-31,Andorra,SLC,Standard local currency units per USD,EUR,Euro,1977,Annual value,0.456539813039659
+AND,1978-01-01,1978-12-31,Andorra,SLC,Standard local currency units per USD,EUR,Euro,1978,Annual value,0.460782958499113
+AND,1979-01-01,1979-12-31,Andorra,SLC,Standard local currency units per USD,EUR,Euro,1979,Annual value,0.40342937506511
+AND,1980-01-01,1980-12-31,Andorra,SLC,Standard local currency units per USD,EUR,Euro,1980,Annual value,0.430937198237332
+AND,1981-01-01,1981-12-31,Andorra,SLC,Standard local currency units per USD,EUR,Euro,1981,Annual value,0.554865393317346
+AND,1982-01-01,1982-12-31,Andorra,SLC,Standard local currency units per USD,EUR,Euro,1982,Annual value,0.660266889436812
+AND,1983-01-01,1983-12-31,Andorra,SLC,Standard local currency units per USD,EUR,Euro,1983,Annual value,0.862031160472235
+AND,1984-01-01,1984-12-31,Andorra,SLC,Standard local currency units per USD,EUR,Euro,1984,Annual value,0.966193069126409
+AND,1985-01-01,1985-12-31,Andorra,SLC,Standard local currency units per USD,EUR,Euro,1985,Annual value,1.02198552362078
+AND,1986-01-01,1986-12-31,Andorra,SLC,Standard local currency units per USD,EUR,Euro,1986,Annual value,0.841707688400272
+AND,1987-01-01,1987-12-31,Andorra,SLC,Standard local currency units per USD,EUR,Euro,1987,Annual value,0.742119729624688
+AND,1988-01-01,1988-12-31,Andorra,SLC,Standard local currency units per USD,EUR,Euro,1988,Annual value,0.700099968346696
+AND,1989-01-01,1989-12-31,Andorra,SLC,Standard local currency units per USD,EUR,Euro,1989,Annual value,0.711464105553753
+AND,1990-01-01,1990-12-31,Andorra,SLC,Standard local currency units per USD,EUR,Euro,1990,Annual value,0.612635177639144
+AND,1991-01-01,1991-12-31,Andorra,SLC,Standard local currency units per USD,EUR,Euro,1991,Annual value,0.624521193690174
+AND,1992-01-01,1992-12-31,Andorra,SLC,Standard local currency units per USD,EUR,Euro,1992,Annual value,0.615310683190493
+AND,1993-01-01,1993-12-31,Andorra,SLC,Standard local currency units per USD,EUR,Euro,1993,Annual value,0.764850508255903
+AND,1994-01-01,1994-12-31,Andorra,SLC,Standard local currency units per USD,EUR,Euro,1994,Annual value,0.80510352433498
+AND,1995-01-01,1995-12-31,Andorra,SLC,Standard local currency units per USD,EUR,Euro,1995,Annual value,0.749395982835094
+AND,1996-01-01,1996-12-31,Andorra,SLC,Standard local currency units per USD,EUR,Euro,1996,Annual value,0.761251447437485
+AND,1997-01-01,1997-12-31,Andorra,SLC,Standard local currency units per USD,EUR,Euro,1997,Annual value,0.879963628750816
+AND,1998-01-01,1998-12-31,Andorra,SLC,Standard local currency units per USD,EUR,Euro,1998,Annual value,0.897884026700964
+AND,1999-01-01,1999-12-31,Andorra,SLC,Standard local currency units per USD,EUR,Euro,1999,Annual value,0.938627275833333
+AND,2000-01-01,2000-12-31,Andorra,SLC,Standard local currency units per USD,EUR,Euro,2000,Annual value,1.08540083333333
+AND,2001-01-01,2001-12-31,Andorra,SLC,Standard local currency units per USD,EUR,Euro,2001,Annual value,1.11751
+AND,2002-01-01,2002-12-31,Andorra,SLC,Standard local currency units per USD,EUR,Euro,2002,Annual value,1.06255166666667
+AND,2003-01-01,2003-12-31,Andorra,SLC,Standard local currency units per USD,EUR,Euro,2003,Annual value,0.886034166666667
+AND,2004-01-01,2004-12-31,Andorra,SLC,Standard local currency units per USD,EUR,Euro,2004,Annual value,0.805365
+AND,2005-01-01,2005-12-31,Andorra,SLC,Standard local currency units per USD,EUR,Euro,2005,Annual value,0.80412
+AND,2006-01-01,2006-12-31,Andorra,SLC,Standard local currency units per USD,EUR,Euro,2006,Annual value,0.797140833333333
+AND,2007-01-01,2007-12-31,Andorra,SLC,Standard local currency units per USD,EUR,Euro,2007,Annual value,0.7306375
+AND,2008-01-01,2008-12-31,Andorra,SLC,Standard local currency units per USD,EUR,Euro,2008,Annual value,0.682674711239873
+AND,2009-01-01,2009-12-31,Andorra,SLC,Standard local currency units per USD,EUR,Euro,2009,Annual value,0.719843359785615
+AND,2010-01-01,2010-12-31,Andorra,SLC,Standard local currency units per USD,EUR,Euro,2010,Annual value,0.755044951989835
+AND,2011-01-01,2011-12-31,Andorra,SLC,Standard local currency units per USD,EUR,Euro,2011,Annual value,0.719355253609154
+AND,2012-01-01,2012-12-31,Andorra,SLC,Standard local currency units per USD,EUR,Euro,2012,Annual value,0.778293601412852
+AND,2013-01-01,2013-12-31,Andorra,SLC,Standard local currency units per USD,EUR,Euro,2013,Annual value,0.75315918184727
+AND,2014-01-01,2014-12-31,Andorra,SLC,Standard local currency units per USD,EUR,Euro,2014,Annual value,0.753730736717402
+AND,2015-01-01,2015-12-31,Andorra,SLC,Standard local currency units per USD,EUR,Euro,2015,Annual value,0.901658961641278
+AND,2016-01-01,2016-12-31,Andorra,SLC,Standard local currency units per USD,EUR,Euro,2016,Annual value,0.904035127950359
+AND,2017-01-01,2017-12-31,Andorra,SLC,Standard local currency units per USD,EUR,Euro,2017,Annual value,0.88520550826938
+AND,2018-01-01,2018-12-31,Andorra,SLC,Standard local currency units per USD,EUR,Euro,2018,Annual value,0.846772667108096
+AND,2019-01-01,2019-12-31,Andorra,SLC,Standard local currency units per USD,EUR,Euro,2019,Annual value,0.893276257067393
+AND,2020-01-01,2020-12-31,Andorra,SLC,Standard local currency units per USD,EUR,Euro,2020,Annual value,0.875506396987983
+AND,2021-01-01,2021-12-31,Andorra,SLC,Standard local currency units per USD,EUR,Euro,2021,Annual value,0.84549413889045
+AND,2022-01-01,2022-12-31,Andorra,SLC,Standard local currency units per USD,EUR,Euro,2022,Annual value,0.950915533962108
+AND,2023-01-01,2023-12-31,Andorra,SLC,Standard local currency units per USD,EUR,Euro,2023,Annual value,0.924839558470698

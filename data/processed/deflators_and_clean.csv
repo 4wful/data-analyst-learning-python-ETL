@@ -1,0 +1,431 @@
+country_code,date_start,date_end,country_name,indicator_code,indicator_name,year,indicator_type,indicator_value
+AND,1970-01-01,1970-12-31,Andorra,22024,GDP Deflator,1970,SLC,5.1810756105
+AND,1971-01-01,1971-12-31,Andorra,22024,GDP Deflator,1971,SLC,5.5875838697
+AND,1972-01-01,1972-12-31,Andorra,22024,GDP Deflator,1972,SLC,6.0635300856
+AND,1973-01-01,1973-12-31,Andorra,22024,GDP Deflator,1973,SLC,6.7820338457
+AND,1974-01-01,1974-12-31,Andorra,22024,GDP Deflator,1974,SLC,7.8634365632
+AND,1975-01-01,1975-12-31,Andorra,22024,GDP Deflator,1975,SLC,9.1830612515
+AND,1976-01-01,1976-12-31,Andorra,22024,GDP Deflator,1976,SLC,10.697340954
+AND,1977-01-01,1977-12-31,Andorra,22024,GDP Deflator,1977,SLC,13.1987076079
+AND,1978-01-01,1978-12-31,Andorra,22024,GDP Deflator,1978,SLC,15.9217385849
+AND,1979-01-01,1979-12-31,Andorra,22024,GDP Deflator,1979,SLC,18.6175486955
+AND,1980-01-01,1980-12-31,Andorra,22024,GDP Deflator,1980,SLC,21.1038901083
+AND,1981-01-01,1981-12-31,Andorra,22024,GDP Deflator,1981,SLC,23.7104722083
+AND,1982-01-01,1982-12-31,Andorra,22024,GDP Deflator,1982,SLC,26.9309052271
+AND,1983-01-01,1983-12-31,Andorra,22024,GDP Deflator,1983,SLC,30.1314401169
+AND,1984-01-01,1984-12-31,Andorra,22024,GDP Deflator,1984,SLC,33.4051408258
+AND,1985-01-01,1985-12-31,Andorra,22024,GDP Deflator,1985,SLC,36.27647292
+AND,1986-01-01,1986-12-31,Andorra,22024,GDP Deflator,1986,SLC,40.2229237857
+AND,1987-01-01,1987-12-31,Andorra,22024,GDP Deflator,1987,SLC,42.6138541566
+AND,1988-01-01,1988-12-31,Andorra,22024,GDP Deflator,1988,SLC,45.1434663098
+AND,1989-01-01,1989-12-31,Andorra,22024,GDP Deflator,1989,SLC,48.256647352
+AND,1990-01-01,1990-12-31,Andorra,22024,GDP Deflator,1990,SLC,51.7920505352
+AND,1991-01-01,1991-12-31,Andorra,22024,GDP Deflator,1991,SLC,55.3839015441
+AND,1992-01-01,1992-12-31,Andorra,22024,GDP Deflator,1992,SLC,59.1005884131
+AND,1993-01-01,1993-12-31,Andorra,22024,GDP Deflator,1993,SLC,61.7821247249
+AND,1994-01-01,1994-12-31,Andorra,22024,GDP Deflator,1994,SLC,64.179173531
+AND,1995-01-01,1995-12-31,Andorra,22024,GDP Deflator,1995,SLC,67.3452154024
+AND,1996-01-01,1996-12-31,Andorra,22024,GDP Deflator,1996,SLC,69.1974075024
+AND,1997-01-01,1997-12-31,Andorra,22024,GDP Deflator,1997,SLC,70.7392299765
+AND,1998-01-01,1998-12-31,Andorra,22024,GDP Deflator,1998,SLC,71.8000081862
+AND,1999-01-01,1999-12-31,Andorra,22024,GDP Deflator,1999,SLC,73.7615675964
+AND,2000-01-01,2000-12-31,Andorra,22024,GDP Deflator,2000,SLC,76.8017982276
+AND,2001-01-01,2001-12-31,Andorra,22024,GDP Deflator,2001,SLC,79.1680149116
+AND,2002-01-01,2002-12-31,Andorra,22024,GDP Deflator,2002,SLC,81.7327001273
+AND,2003-01-01,2003-12-31,Andorra,22024,GDP Deflator,2003,SLC,84.3296938703
+AND,2004-01-01,2004-12-31,Andorra,22024,GDP Deflator,2004,SLC,86.8952553016
+AND,2005-01-01,2005-12-31,Andorra,22024,GDP Deflator,2005,SLC,89.8466914411
+AND,2006-01-01,2006-12-31,Andorra,22024,GDP Deflator,2006,SLC,92.9525197825
+AND,2007-01-01,2007-12-31,Andorra,22024,GDP Deflator,2007,SLC,95.9374111273
+AND,2008-01-01,2008-12-31,Andorra,22024,GDP Deflator,2008,SLC,98.1195526368
+AND,2009-01-01,2009-12-31,Andorra,22024,GDP Deflator,2009,SLC,98.2489623986
+AND,2010-01-01,2010-12-31,Andorra,22024,GDP Deflator,2010,SLC,98.6169201591
+AND,2011-01-01,2011-12-31,Andorra,22024,GDP Deflator,2011,SLC,98.8111333121
+AND,2012-01-01,2012-12-31,Andorra,22024,GDP Deflator,2012,SLC,98.9831798959
+AND,2013-01-01,2013-12-31,Andorra,22024,GDP Deflator,2013,SLC,99.4273284581
+AND,2014-01-01,2014-12-31,Andorra,22024,GDP Deflator,2014,SLC,99.343973601
+AND,2015-01-01,2015-12-31,Andorra,22024,GDP Deflator,2015,SLC,100.0
+AND,2016-01-01,2016-12-31,Andorra,22024,GDP Deflator,2016,SLC,100.3479615863
+AND,2017-01-01,2017-12-31,Andorra,22024,GDP Deflator,2017,SLC,101.4883197432
+AND,2018-01-01,2018-12-31,Andorra,22024,GDP Deflator,2018,SLC,102.515791665
+AND,2019-01-01,2019-12-31,Andorra,22024,GDP Deflator,2019,SLC,103.9254322886
+AND,2020-01-01,2020-12-31,Andorra,22024,GDP Deflator,2020,SLC,105.082449801
+AND,2021-01-01,2021-12-31,Andorra,22024,GDP Deflator,2021,SLC,107.7712976297
+AND,2022-01-01,2022-12-31,Andorra,22024,GDP Deflator,2022,SLC,112.3375777376
+AND,2023-01-01,2023-12-31,Andorra,22024,GDP Deflator,2023,SLC,117.378866269
+AND,1970-01-01,1970-12-31,Andorra,22024,GDP Deflator,1970,USD,11.1040389
+AND,1971-01-01,1971-12-31,Andorra,22024,GDP Deflator,1971,USD,12.0668572761
+AND,1972-01-01,1972-12-31,Andorra,22024,GDP Deflator,1972,USD,14.153594496
+AND,1973-01-01,1973-12-31,Andorra,22024,GDP Deflator,1973,USD,17.4641694294
+AND,1974-01-01,1974-12-31,Andorra,22024,GDP Deflator,1974,USD,20.450186942
+AND,1975-01-01,1975-12-31,Andorra,22024,GDP Deflator,1975,USD,23.9984031268
+AND,1976-01-01,1976-12-31,Andorra,22024,GDP Deflator,1976,USD,23.9877697458
+AND,1977-01-01,1977-12-31,Andorra,22024,GDP Deflator,1977,USD,26.0672402644
+AND,1978-01-01,1978-12-31,Andorra,22024,GDP Deflator,1978,USD,31.1556189638
+AND,1979-01-01,1979-12-31,Andorra,22024,GDP Deflator,1979,USD,41.6099586758
+AND,1980-01-01,1980-12-31,Andorra,22024,GDP Deflator,1980,USD,44.1561130472
+AND,1981-01-01,1981-12-31,Andorra,22024,GDP Deflator,1981,USD,38.529632608
+AND,1982-01-01,1982-12-31,Andorra,22024,GDP Deflator,1982,USD,36.7767828913
+AND,1983-01-01,1983-12-31,Andorra,22024,GDP Deflator,1983,USD,31.5165904138
+AND,1984-01-01,1984-12-31,Andorra,22024,GDP Deflator,1984,USD,31.173939819
+AND,1985-01-01,1985-12-31,Andorra,22024,GDP Deflator,1985,USD,32.0053524723
+AND,1986-01-01,1986-12-31,Andorra,22024,GDP Deflator,1986,USD,43.087832266
+AND,1987-01-01,1987-12-31,Andorra,22024,GDP Deflator,1987,USD,51.7748847748
+AND,1988-01-01,1988-12-31,Andorra,22024,GDP Deflator,1988,USD,58.1402839567
+AND,1989-01-01,1989-12-31,Andorra,22024,GDP Deflator,1989,USD,61.1570396933
+AND,1990-01-01,1990-12-31,Andorra,22024,GDP Deflator,1990,USD,76.2260611394
+AND,1991-01-01,1991-12-31,Andorra,22024,GDP Deflator,1991,USD,79.9610832466
+AND,1992-01-01,1992-12-31,Andorra,22024,GDP Deflator,1992,USD,86.6043392984
+AND,1993-01-01,1993-12-31,Andorra,22024,GDP Deflator,1993,USD,72.8330645351
+AND,1994-01-01,1994-12-31,Andorra,22024,GDP Deflator,1994,USD,71.876131722
+AND,1995-01-01,1995-12-31,Andorra,22024,GDP Deflator,1995,USD,81.0284794449
+AND,1996-01-01,1996-12-31,Andorra,22024,GDP Deflator,1996,USD,81.9603861601
+AND,1997-01-01,1997-12-31,Andorra,22024,GDP Deflator,1997,USD,72.4832919952
+AND,1998-01-01,1998-12-31,Andorra,22024,GDP Deflator,1998,USD,72.1018738521
+AND,1999-01-01,1999-12-31,Andorra,22024,GDP Deflator,1999,USD,70.8564306199
+AND,2000-01-01,2000-12-31,Andorra,22024,GDP Deflator,2000,USD,63.8004205593
+AND,2001-01-01,2001-12-31,Andorra,22024,GDP Deflator,2001,USD,63.8764307437
+AND,2002-01-01,2002-12-31,Andorra,22024,GDP Deflator,2002,USD,69.3566476256
+AND,2003-01-01,2003-12-31,Andorra,22024,GDP Deflator,2003,USD,85.8168082802
+AND,2004-01-01,2004-12-31,Andorra,22024,GDP Deflator,2004,USD,97.2849399549
+AND,2005-01-01,2005-12-31,Andorra,22024,GDP Deflator,2005,USD,100.7450063569
+AND,2006-01-01,2006-12-31,Andorra,22024,GDP Deflator,2006,USD,105.1401069477
+AND,2007-01-01,2007-12-31,Andorra,22024,GDP Deflator,2007,USD,118.3936309039
+AND,2008-01-01,2008-12-31,Andorra,22024,GDP Deflator,2008,USD,129.5937471985
+AND,2009-01-01,2009-12-31,Andorra,22024,GDP Deflator,2009,USD,123.0643531184
+AND,2010-01-01,2010-12-31,Andorra,22024,GDP Deflator,2010,USD,117.7662728511
+AND,2011-01-01,2011-12-31,Andorra,22024,GDP Deflator,2011,USD,123.852496265
+AND,2012-01-01,2012-12-31,Andorra,22024,GDP Deflator,2012,USD,114.6727546557
+AND,2013-01-01,2013-12-31,Andorra,22024,GDP Deflator,2013,USD,119.0313334778
+AND,2014-01-01,2014-12-31,Andorra,22024,GDP Deflator,2014,USD,118.8413576876
+AND,2015-01-01,2015-12-31,Andorra,22024,GDP Deflator,2015,USD,100.0
+AND,2016-01-01,2016-12-31,Andorra,22024,GDP Deflator,2016,USD,100.084206962
+AND,2017-01-01,2017-12-31,Andorra,22024,GDP Deflator,2017,USD,103.3746990315
+AND,2018-01-01,2018-12-31,Andorra,22024,GDP Deflator,2018,USD,109.1606825007
+AND,2019-01-01,2019-12-31,Andorra,22024,GDP Deflator,2019,USD,104.9006918342
+AND,2020-01-01,2020-12-31,Andorra,22024,GDP Deflator,2020,USD,108.2214052351
+AND,2021-01-01,2021-12-31,Andorra,22024,GDP Deflator,2021,USD,114.9303724837
+AND,2022-01-01,2022-12-31,Andorra,22024,GDP Deflator,2022,USD,106.5185919028
+AND,2023-01-01,2023-12-31,Andorra,22024,GDP Deflator,2023,USD,114.4368292906
+AND,1970-01-01,1970-12-31,Andorra,22025,Gross Fixed Capital Formation Deflator,1970,SLC,5.1810757962
+AND,1971-01-01,1971-12-31,Andorra,22025,Gross Fixed Capital Formation Deflator,1971,SLC,5.5875840604
+AND,1972-01-01,1972-12-31,Andorra,22025,Gross Fixed Capital Formation Deflator,1972,SLC,6.0635302913
+AND,1973-01-01,1973-12-31,Andorra,22025,Gross Fixed Capital Formation Deflator,1973,SLC,6.7820339154
+AND,1974-01-01,1974-12-31,Andorra,22025,Gross Fixed Capital Formation Deflator,1974,SLC,7.8634364513
+AND,1975-01-01,1975-12-31,Andorra,22025,Gross Fixed Capital Formation Deflator,1975,SLC,9.1830612885
+AND,1976-01-01,1976-12-31,Andorra,22025,Gross Fixed Capital Formation Deflator,1976,SLC,10.6973410238
+AND,1977-01-01,1977-12-31,Andorra,22025,Gross Fixed Capital Formation Deflator,1977,SLC,13.1987076708
+AND,1978-01-01,1978-12-31,Andorra,22025,Gross Fixed Capital Formation Deflator,1978,SLC,15.9217387486
+AND,1979-01-01,1979-12-31,Andorra,22025,Gross Fixed Capital Formation Deflator,1979,SLC,18.6175487943
+AND,1980-01-01,1980-12-31,Andorra,22025,Gross Fixed Capital Formation Deflator,1980,SLC,21.1038901957
+AND,1981-01-01,1981-12-31,Andorra,22025,Gross Fixed Capital Formation Deflator,1981,SLC,23.7104721112
+AND,1982-01-01,1982-12-31,Andorra,22025,Gross Fixed Capital Formation Deflator,1982,SLC,26.9309051742
+AND,1983-01-01,1983-12-31,Andorra,22025,Gross Fixed Capital Formation Deflator,1983,SLC,30.1314399674
+AND,1984-01-01,1984-12-31,Andorra,22025,Gross Fixed Capital Formation Deflator,1984,SLC,33.4051409329
+AND,1985-01-01,1985-12-31,Andorra,22025,Gross Fixed Capital Formation Deflator,1985,SLC,36.2764729188
+AND,1986-01-01,1986-12-31,Andorra,22025,Gross Fixed Capital Formation Deflator,1986,SLC,40.222923665
+AND,1987-01-01,1987-12-31,Andorra,22025,Gross Fixed Capital Formation Deflator,1987,SLC,42.6138542879
+AND,1988-01-01,1988-12-31,Andorra,22025,Gross Fixed Capital Formation Deflator,1988,SLC,45.1434663349
+AND,1989-01-01,1989-12-31,Andorra,22025,Gross Fixed Capital Formation Deflator,1989,SLC,48.2566474604
+AND,1990-01-01,1990-12-31,Andorra,22025,Gross Fixed Capital Formation Deflator,1990,SLC,51.792050653
+AND,1991-01-01,1991-12-31,Andorra,22025,Gross Fixed Capital Formation Deflator,1991,SLC,55.38390149
+AND,1992-01-01,1992-12-31,Andorra,22025,Gross Fixed Capital Formation Deflator,1992,SLC,59.1005883412
+AND,1993-01-01,1993-12-31,Andorra,22025,Gross Fixed Capital Formation Deflator,1993,SLC,61.7821246408
+AND,1994-01-01,1994-12-31,Andorra,22025,Gross Fixed Capital Formation Deflator,1994,SLC,64.1791734193
+AND,1995-01-01,1995-12-31,Andorra,22025,Gross Fixed Capital Formation Deflator,1995,SLC,67.3452155105
+AND,1996-01-01,1996-12-31,Andorra,22025,Gross Fixed Capital Formation Deflator,1996,SLC,69.1974074033
+AND,1997-01-01,1997-12-31,Andorra,22025,Gross Fixed Capital Formation Deflator,1997,SLC,70.739229861
+AND,1998-01-01,1998-12-31,Andorra,22025,Gross Fixed Capital Formation Deflator,1998,SLC,71.8000081312
+AND,1999-01-01,1999-12-31,Andorra,22025,Gross Fixed Capital Formation Deflator,1999,SLC,73.7615674803
+AND,2000-01-01,2000-12-31,Andorra,22025,Gross Fixed Capital Formation Deflator,2000,SLC,76.801798063
+AND,2001-01-01,2001-12-31,Andorra,22025,Gross Fixed Capital Formation Deflator,2001,SLC,79.1680148431
+AND,2002-01-01,2002-12-31,Andorra,22025,Gross Fixed Capital Formation Deflator,2002,SLC,81.7327000756
+AND,2003-01-01,2003-12-31,Andorra,22025,Gross Fixed Capital Formation Deflator,2003,SLC,84.329693712
+AND,2004-01-01,2004-12-31,Andorra,22025,Gross Fixed Capital Formation Deflator,2004,SLC,86.895255209
+AND,2005-01-01,2005-12-31,Andorra,22025,Gross Fixed Capital Formation Deflator,2005,SLC,89.8466912609
+AND,2006-01-01,2006-12-31,Andorra,22025,Gross Fixed Capital Formation Deflator,2006,SLC,92.9525196705
+AND,2007-01-01,2007-12-31,Andorra,22025,Gross Fixed Capital Formation Deflator,2007,SLC,95.9374110905
+AND,2008-01-01,2008-12-31,Andorra,22025,Gross Fixed Capital Formation Deflator,2008,SLC,98.1195524987
+AND,2009-01-01,2009-12-31,Andorra,22025,Gross Fixed Capital Formation Deflator,2009,SLC,98.248962327
+AND,2010-01-01,2010-12-31,Andorra,22025,Gross Fixed Capital Formation Deflator,2010,SLC,98.6169200744
+AND,2011-01-01,2011-12-31,Andorra,22025,Gross Fixed Capital Formation Deflator,2011,SLC,98.8111332787
+AND,2012-01-01,2012-12-31,Andorra,22025,Gross Fixed Capital Formation Deflator,2012,SLC,98.9831798241
+AND,2013-01-01,2013-12-31,Andorra,22025,Gross Fixed Capital Formation Deflator,2013,SLC,99.4273285042
+AND,2014-01-01,2014-12-31,Andorra,22025,Gross Fixed Capital Formation Deflator,2014,SLC,99.34397339
+AND,2015-01-01,2015-12-31,Andorra,22025,Gross Fixed Capital Formation Deflator,2015,SLC,100.0
+AND,2016-01-01,2016-12-31,Andorra,22025,Gross Fixed Capital Formation Deflator,2016,SLC,100.3479615416
+AND,2017-01-01,2017-12-31,Andorra,22025,Gross Fixed Capital Formation Deflator,2017,SLC,101.4883196402
+AND,2018-01-01,2018-12-31,Andorra,22025,Gross Fixed Capital Formation Deflator,2018,SLC,102.5157916508
+AND,2019-01-01,2019-12-31,Andorra,22025,Gross Fixed Capital Formation Deflator,2019,SLC,103.9254321609
+AND,2020-01-01,2020-12-31,Andorra,22025,Gross Fixed Capital Formation Deflator,2020,SLC,105.0824497629
+AND,2021-01-01,2021-12-31,Andorra,22025,Gross Fixed Capital Formation Deflator,2021,SLC,107.7712975754
+AND,2022-01-01,2022-12-31,Andorra,22025,Gross Fixed Capital Formation Deflator,2022,SLC,112.3375777524
+AND,2023-01-01,2023-12-31,Andorra,22025,Gross Fixed Capital Formation Deflator,2023,SLC,113.9170018967
+AND,1970-01-01,1970-12-31,Andorra,22025,Gross Fixed Capital Formation Deflator,1970,USD,11.1040392979
+AND,1971-01-01,1971-12-31,Andorra,22025,Gross Fixed Capital Formation Deflator,1971,USD,12.0668576881
+AND,1972-01-01,1972-12-31,Andorra,22025,Gross Fixed Capital Formation Deflator,1972,USD,14.1535949761
+AND,1973-01-01,1973-12-31,Andorra,22025,Gross Fixed Capital Formation Deflator,1973,USD,17.4641696089
+AND,1974-01-01,1974-12-31,Andorra,22025,Gross Fixed Capital Formation Deflator,1974,USD,20.4501866509
+AND,1975-01-01,1975-12-31,Andorra,22025,Gross Fixed Capital Formation Deflator,1975,USD,23.9984032234
+AND,1976-01-01,1976-12-31,Andorra,22025,Gross Fixed Capital Formation Deflator,1976,USD,23.9877699024
+AND,1977-01-01,1977-12-31,Andorra,22025,Gross Fixed Capital Formation Deflator,1977,USD,26.0672403885
+AND,1978-01-01,1978-12-31,Andorra,22025,Gross Fixed Capital Formation Deflator,1978,USD,31.1556192841
+AND,1979-01-01,1979-12-31,Andorra,22025,Gross Fixed Capital Formation Deflator,1979,USD,41.6099588966
+AND,1980-01-01,1980-12-31,Andorra,22025,Gross Fixed Capital Formation Deflator,1980,USD,44.1561132301
+AND,1981-01-01,1981-12-31,Andorra,22025,Gross Fixed Capital Formation Deflator,1981,USD,38.5296324501
+AND,1982-01-01,1982-12-31,Andorra,22025,Gross Fixed Capital Formation Deflator,1982,USD,36.776782819
+AND,1983-01-01,1983-12-31,Andorra,22025,Gross Fixed Capital Formation Deflator,1983,USD,31.5165902575
+AND,1984-01-01,1984-12-31,Andorra,22025,Gross Fixed Capital Formation Deflator,1984,USD,31.173939919
+AND,1985-01-01,1985-12-31,Andorra,22025,Gross Fixed Capital Formation Deflator,1985,USD,32.0053524712
+AND,1986-01-01,1986-12-31,Andorra,22025,Gross Fixed Capital Formation Deflator,1986,USD,43.0878321367
+AND,1987-01-01,1987-12-31,Andorra,22025,Gross Fixed Capital Formation Deflator,1987,USD,51.7748849343
+AND,1988-01-01,1988-12-31,Andorra,22025,Gross Fixed Capital Formation Deflator,1988,USD,58.1402839891
+AND,1989-01-01,1989-12-31,Andorra,22025,Gross Fixed Capital Formation Deflator,1989,USD,61.1570398307
+AND,1990-01-01,1990-12-31,Andorra,22025,Gross Fixed Capital Formation Deflator,1990,USD,76.2260613128
+AND,1991-01-01,1991-12-31,Andorra,22025,Gross Fixed Capital Formation Deflator,1991,USD,79.9610831684
+AND,1992-01-01,1992-12-31,Andorra,22025,Gross Fixed Capital Formation Deflator,1992,USD,86.6043391931
+AND,1993-01-01,1993-12-31,Andorra,22025,Gross Fixed Capital Formation Deflator,1993,USD,72.8330644359
+AND,1994-01-01,1994-12-31,Andorra,22025,Gross Fixed Capital Formation Deflator,1994,USD,71.8761315969
+AND,1995-01-01,1995-12-31,Andorra,22025,Gross Fixed Capital Formation Deflator,1995,USD,81.028479575
+AND,1996-01-01,1996-12-31,Andorra,22025,Gross Fixed Capital Formation Deflator,1996,USD,81.9603860427
+AND,1997-01-01,1997-12-31,Andorra,22025,Gross Fixed Capital Formation Deflator,1997,USD,72.4832918768
+AND,1998-01-01,1998-12-31,Andorra,22025,Gross Fixed Capital Formation Deflator,1998,USD,72.1018737969
+AND,1999-01-01,1999-12-31,Andorra,22025,Gross Fixed Capital Formation Deflator,1999,USD,70.8564305083
+AND,2000-01-01,2000-12-31,Andorra,22025,Gross Fixed Capital Formation Deflator,2000,USD,63.8004204226
+AND,2001-01-01,2001-12-31,Andorra,22025,Gross Fixed Capital Formation Deflator,2001,USD,63.8764306884
+AND,2002-01-01,2002-12-31,Andorra,22025,Gross Fixed Capital Formation Deflator,2002,USD,69.3566475816
+AND,2003-01-01,2003-12-31,Andorra,22025,Gross Fixed Capital Formation Deflator,2003,USD,85.8168081192
+AND,2004-01-01,2004-12-31,Andorra,22025,Gross Fixed Capital Formation Deflator,2004,USD,97.2849398513
+AND,2005-01-01,2005-12-31,Andorra,22025,Gross Fixed Capital Formation Deflator,2005,USD,100.7450061548
+AND,2006-01-01,2006-12-31,Andorra,22025,Gross Fixed Capital Formation Deflator,2006,USD,105.140106821
+AND,2007-01-01,2007-12-31,Andorra,22025,Gross Fixed Capital Formation Deflator,2007,USD,118.3936308586
+AND,2008-01-01,2008-12-31,Andorra,22025,Gross Fixed Capital Formation Deflator,2008,USD,129.593747016
+AND,2009-01-01,2009-12-31,Andorra,22025,Gross Fixed Capital Formation Deflator,2009,USD,123.0643530289
+AND,2010-01-01,2010-12-31,Andorra,22025,Gross Fixed Capital Formation Deflator,2010,USD,117.7662727499
+AND,2011-01-01,2011-12-31,Andorra,22025,Gross Fixed Capital Formation Deflator,2011,USD,123.8524962231
+AND,2012-01-01,2012-12-31,Andorra,22025,Gross Fixed Capital Formation Deflator,2012,USD,114.6727545725
+AND,2013-01-01,2013-12-31,Andorra,22025,Gross Fixed Capital Formation Deflator,2013,USD,119.031333533
+AND,2014-01-01,2014-12-31,Andorra,22025,Gross Fixed Capital Formation Deflator,2014,USD,118.8413574353
+AND,2015-01-01,2015-12-31,Andorra,22025,Gross Fixed Capital Formation Deflator,2015,USD,100.0
+AND,2016-01-01,2016-12-31,Andorra,22025,Gross Fixed Capital Formation Deflator,2016,USD,100.0842069175
+AND,2017-01-01,2017-12-31,Andorra,22025,Gross Fixed Capital Formation Deflator,2017,USD,103.3746989266
+AND,2018-01-01,2018-12-31,Andorra,22025,Gross Fixed Capital Formation Deflator,2018,USD,109.1606824856
+AND,2019-01-01,2019-12-31,Andorra,22025,Gross Fixed Capital Formation Deflator,2019,USD,104.9006917053
+AND,2020-01-01,2020-12-31,Andorra,22025,Gross Fixed Capital Formation Deflator,2020,USD,108.2214051958
+AND,2021-01-01,2021-12-31,Andorra,22025,Gross Fixed Capital Formation Deflator,2021,USD,114.9303724258
+AND,2022-01-01,2022-12-31,Andorra,22025,Gross Fixed Capital Formation Deflator,2022,USD,106.5185919168
+AND,2023-01-01,2023-12-31,Andorra,22025,Gross Fixed Capital Formation Deflator,2023,USD,111.0617346522
+AND,1970-01-01,1970-12-31,Andorra,22026,"Value Added Deflator (Agriculture, forestry and fishery)",1970,SLC,5.1810746736
+AND,1971-01-01,1971-12-31,Andorra,22026,"Value Added Deflator (Agriculture, forestry and fishery)",1971,SLC,5.5875839034
+AND,1972-01-01,1972-12-31,Andorra,22026,"Value Added Deflator (Agriculture, forestry and fishery)",1972,SLC,6.0635306459
+AND,1973-01-01,1973-12-31,Andorra,22026,"Value Added Deflator (Agriculture, forestry and fishery)",1973,SLC,6.7820333551
+AND,1974-01-01,1974-12-31,Andorra,22026,"Value Added Deflator (Agriculture, forestry and fishery)",1974,SLC,7.8634356311
+AND,1975-01-01,1975-12-31,Andorra,22026,"Value Added Deflator (Agriculture, forestry and fishery)",1975,SLC,9.1830606598
+AND,1976-01-01,1976-12-31,Andorra,22026,"Value Added Deflator (Agriculture, forestry and fishery)",1976,SLC,10.697340699
+AND,1977-01-01,1977-12-31,Andorra,22026,"Value Added Deflator (Agriculture, forestry and fishery)",1977,SLC,13.1987075423
+AND,1978-01-01,1978-12-31,Andorra,22026,"Value Added Deflator (Agriculture, forestry and fishery)",1978,SLC,15.9217382021
+AND,1979-01-01,1979-12-31,Andorra,22026,"Value Added Deflator (Agriculture, forestry and fishery)",1979,SLC,18.6175487493
+AND,1980-01-01,1980-12-31,Andorra,22026,"Value Added Deflator (Agriculture, forestry and fishery)",1980,SLC,21.1038910522
+AND,1981-01-01,1981-12-31,Andorra,22026,"Value Added Deflator (Agriculture, forestry and fishery)",1981,SLC,23.7104690064
+AND,1982-01-01,1982-12-31,Andorra,22026,"Value Added Deflator (Agriculture, forestry and fishery)",1982,SLC,26.9309053989
+AND,1983-01-01,1983-12-31,Andorra,22026,"Value Added Deflator (Agriculture, forestry and fishery)",1983,SLC,30.1314417551
+AND,1984-01-01,1984-12-31,Andorra,22026,"Value Added Deflator (Agriculture, forestry and fishery)",1984,SLC,33.405142909
+AND,1985-01-01,1985-12-31,Andorra,22026,"Value Added Deflator (Agriculture, forestry and fishery)",1985,SLC,36.2764687762
+AND,1986-01-01,1986-12-31,Andorra,22026,"Value Added Deflator (Agriculture, forestry and fishery)",1986,SLC,40.2229211949
+AND,1987-01-01,1987-12-31,Andorra,22026,"Value Added Deflator (Agriculture, forestry and fishery)",1987,SLC,42.6138537141
+AND,1988-01-01,1988-12-31,Andorra,22026,"Value Added Deflator (Agriculture, forestry and fishery)",1988,SLC,45.1434636354
+AND,1989-01-01,1989-12-31,Andorra,22026,"Value Added Deflator (Agriculture, forestry and fishery)",1989,SLC,48.256643207
+AND,1990-01-01,1990-12-31,Andorra,22026,"Value Added Deflator (Agriculture, forestry and fishery)",1990,SLC,51.7920471928
+AND,1991-01-01,1991-12-31,Andorra,22026,"Value Added Deflator (Agriculture, forestry and fishery)",1991,SLC,55.3839038021
+AND,1992-01-01,1992-12-31,Andorra,22026,"Value Added Deflator (Agriculture, forestry and fishery)",1992,SLC,59.1005824186
+AND,1993-01-01,1993-12-31,Andorra,22026,"Value Added Deflator (Agriculture, forestry and fishery)",1993,SLC,61.7821245633
+AND,1994-01-01,1994-12-31,Andorra,22026,"Value Added Deflator (Agriculture, forestry and fishery)",1994,SLC,64.1791687204
+AND,1995-01-01,1995-12-31,Andorra,22026,"Value Added Deflator (Agriculture, forestry and fishery)",1995,SLC,67.3452174586
+AND,1996-01-01,1996-12-31,Andorra,22026,"Value Added Deflator (Agriculture, forestry and fishery)",1996,SLC,69.1974039106
+AND,1997-01-01,1997-12-31,Andorra,22026,"Value Added Deflator (Agriculture, forestry and fishery)",1997,SLC,70.7392288995
+AND,1998-01-01,1998-12-31,Andorra,22026,"Value Added Deflator (Agriculture, forestry and fishery)",1998,SLC,71.8000109431
+AND,1999-01-01,1999-12-31,Andorra,22026,"Value Added Deflator (Agriculture, forestry and fishery)",1999,SLC,73.7615578335
+AND,2000-01-01,2000-12-31,Andorra,22026,"Value Added Deflator (Agriculture, forestry and fishery)",2000,SLC,76.8017974777
+AND,2001-01-01,2001-12-31,Andorra,22026,"Value Added Deflator (Agriculture, forestry and fishery)",2001,SLC,79.1680104304
+AND,2002-01-01,2002-12-31,Andorra,22026,"Value Added Deflator (Agriculture, forestry and fishery)",2002,SLC,81.7327006812
+AND,2003-01-01,2003-12-31,Andorra,22026,"Value Added Deflator (Agriculture, forestry and fishery)",2003,SLC,84.3296889123
+AND,2004-01-01,2004-12-31,Andorra,22026,"Value Added Deflator (Agriculture, forestry and fishery)",2004,SLC,86.8952509809
+AND,2005-01-01,2005-12-31,Andorra,22026,"Value Added Deflator (Agriculture, forestry and fishery)",2005,SLC,89.8466908113
+AND,2006-01-01,2006-12-31,Andorra,22026,"Value Added Deflator (Agriculture, forestry and fishery)",2006,SLC,92.9525203202
+AND,2007-01-01,2007-12-31,Andorra,22026,"Value Added Deflator (Agriculture, forestry and fishery)",2007,SLC,95.9374078381
+AND,2008-01-01,2008-12-31,Andorra,22026,"Value Added Deflator (Agriculture, forestry and fishery)",2008,SLC,98.1195504142
+AND,2009-01-01,2009-12-31,Andorra,22026,"Value Added Deflator (Agriculture, forestry and fishery)",2009,SLC,98.2489623404
+AND,2010-01-01,2010-12-31,Andorra,22026,"Value Added Deflator (Agriculture, forestry and fishery)",2010,SLC,98.6169171185
+AND,2011-01-01,2011-12-31,Andorra,22026,"Value Added Deflator (Agriculture, forestry and fishery)",2011,SLC,98.8111323692
+AND,2012-01-01,2012-12-31,Andorra,22026,"Value Added Deflator (Agriculture, forestry and fishery)",2012,SLC,98.9831747679
+AND,2013-01-01,2013-12-31,Andorra,22026,"Value Added Deflator (Agriculture, forestry and fishery)",2013,SLC,99.4273275154
+AND,2014-01-01,2014-12-31,Andorra,22026,"Value Added Deflator (Agriculture, forestry and fishery)",2014,SLC,99.3439739454
+AND,2015-01-01,2015-12-31,Andorra,22026,"Value Added Deflator (Agriculture, forestry and fishery)",2015,SLC,100.0
+AND,2016-01-01,2016-12-31,Andorra,22026,"Value Added Deflator (Agriculture, forestry and fishery)",2016,SLC,100.3479560917
+AND,2017-01-01,2017-12-31,Andorra,22026,"Value Added Deflator (Agriculture, forestry and fishery)",2017,SLC,101.4883194476
+AND,2018-01-01,2018-12-31,Andorra,22026,"Value Added Deflator (Agriculture, forestry and fishery)",2018,SLC,102.5157873535
+AND,2019-01-01,2019-12-31,Andorra,22026,"Value Added Deflator (Agriculture, forestry and fishery)",2019,SLC,103.9075242601
+AND,2020-01-01,2020-12-31,Andorra,22026,"Value Added Deflator (Agriculture, forestry and fishery)",2020,SLC,105.0726520992
+AND,2021-01-01,2021-12-31,Andorra,22026,"Value Added Deflator (Agriculture, forestry and fishery)",2021,SLC,107.7721426112
+AND,2022-01-01,2022-12-31,Andorra,22026,"Value Added Deflator (Agriculture, forestry and fishery)",2022,SLC,112.3256734283
+AND,2023-01-01,2023-12-31,Andorra,22026,"Value Added Deflator (Agriculture, forestry and fishery)",2023,SLC,113.4716834082
+AND,1970-01-01,1970-12-31,Andorra,22026,"Value Added Deflator (Agriculture, forestry and fishery)",1970,USD,11.104036892
+AND,1971-01-01,1971-12-31,Andorra,22026,"Value Added Deflator (Agriculture, forestry and fishery)",1971,USD,12.0668573489
+AND,1972-01-01,1972-12-31,Andorra,22026,"Value Added Deflator (Agriculture, forestry and fishery)",1972,USD,14.1535958038
+AND,1973-01-01,1973-12-31,Andorra,22026,"Value Added Deflator (Agriculture, forestry and fishery)",1973,USD,17.4641681661
+AND,1974-01-01,1974-12-31,Andorra,22026,"Value Added Deflator (Agriculture, forestry and fishery)",1974,USD,20.4501845179
+AND,1975-01-01,1975-12-31,Andorra,22026,"Value Added Deflator (Agriculture, forestry and fishery)",1975,USD,23.9984015804
+AND,1976-01-01,1976-12-31,Andorra,22026,"Value Added Deflator (Agriculture, forestry and fishery)",1976,USD,23.9877691742
+AND,1977-01-01,1977-12-31,Andorra,22026,"Value Added Deflator (Agriculture, forestry and fishery)",1977,USD,26.0672401348
+AND,1978-01-01,1978-12-31,Andorra,22026,"Value Added Deflator (Agriculture, forestry and fishery)",1978,USD,31.1556182147
+AND,1979-01-01,1979-12-31,Andorra,22026,"Value Added Deflator (Agriculture, forestry and fishery)",1979,USD,41.6099587961
+AND,1980-01-01,1980-12-31,Andorra,22026,"Value Added Deflator (Agriculture, forestry and fishery)",1980,USD,44.1561150222
+AND,1981-01-01,1981-12-31,Andorra,22026,"Value Added Deflator (Agriculture, forestry and fishery)",1981,USD,38.5296274047
+AND,1982-01-01,1982-12-31,Andorra,22026,"Value Added Deflator (Agriculture, forestry and fishery)",1982,USD,36.776783126
+AND,1983-01-01,1983-12-31,Andorra,22026,"Value Added Deflator (Agriculture, forestry and fishery)",1983,USD,31.5165921274
+AND,1984-01-01,1984-12-31,Andorra,22026,"Value Added Deflator (Agriculture, forestry and fishery)",1984,USD,31.1739417631
+AND,1985-01-01,1985-12-31,Andorra,22026,"Value Added Deflator (Agriculture, forestry and fishery)",1985,USD,32.0053488164
+AND,1986-01-01,1986-12-31,Andorra,22026,"Value Added Deflator (Agriculture, forestry and fishery)",1986,USD,43.0878294906
+AND,1987-01-01,1987-12-31,Andorra,22026,"Value Added Deflator (Agriculture, forestry and fishery)",1987,USD,51.7748842371
+AND,1988-01-01,1988-12-31,Andorra,22026,"Value Added Deflator (Agriculture, forestry and fishery)",1988,USD,58.1402805123
+AND,1989-01-01,1989-12-31,Andorra,22026,"Value Added Deflator (Agriculture, forestry and fishery)",1989,USD,61.1570344402
+AND,1990-01-01,1990-12-31,Andorra,22026,"Value Added Deflator (Agriculture, forestry and fishery)",1990,USD,76.2260562201
+AND,1991-01-01,1991-12-31,Andorra,22026,"Value Added Deflator (Agriculture, forestry and fishery)",1991,USD,79.9610865066
+AND,1992-01-01,1992-12-31,Andorra,22026,"Value Added Deflator (Agriculture, forestry and fishery)",1992,USD,86.6043305143
+AND,1993-01-01,1993-12-31,Andorra,22026,"Value Added Deflator (Agriculture, forestry and fishery)",1993,USD,72.8330643445
+AND,1994-01-01,1994-12-31,Andorra,22026,"Value Added Deflator (Agriculture, forestry and fishery)",1994,USD,71.8761263345
+AND,1995-01-01,1995-12-31,Andorra,22026,"Value Added Deflator (Agriculture, forestry and fishery)",1995,USD,81.0284819189
+AND,1996-01-01,1996-12-31,Andorra,22026,"Value Added Deflator (Agriculture, forestry and fishery)",1996,USD,81.9603819057
+AND,1997-01-01,1997-12-31,Andorra,22026,"Value Added Deflator (Agriculture, forestry and fishery)",1997,USD,72.4832908917
+AND,1998-01-01,1998-12-31,Andorra,22026,"Value Added Deflator (Agriculture, forestry and fishery)",1998,USD,72.1018766206
+AND,1999-01-01,1999-12-31,Andorra,22026,"Value Added Deflator (Agriculture, forestry and fishery)",1999,USD,70.8564212415
+AND,2000-01-01,2000-12-31,Andorra,22026,"Value Added Deflator (Agriculture, forestry and fishery)",2000,USD,63.8004199364
+AND,2001-01-01,2001-12-31,Andorra,22026,"Value Added Deflator (Agriculture, forestry and fishery)",2001,USD,63.8764271281
+AND,2002-01-01,2002-12-31,Andorra,22026,"Value Added Deflator (Agriculture, forestry and fishery)",2002,USD,69.3566480956
+AND,2003-01-01,2003-12-31,Andorra,22026,"Value Added Deflator (Agriculture, forestry and fishery)",2003,USD,85.8168032348
+AND,2004-01-01,2004-12-31,Andorra,22026,"Value Added Deflator (Agriculture, forestry and fishery)",2004,USD,97.2849351176
+AND,2005-01-01,2005-12-31,Andorra,22026,"Value Added Deflator (Agriculture, forestry and fishery)",2005,USD,100.7450056507
+AND,2006-01-01,2006-12-31,Andorra,22026,"Value Added Deflator (Agriculture, forestry and fishery)",2006,USD,105.1401075558
+AND,2007-01-01,2007-12-31,Andorra,22026,"Value Added Deflator (Agriculture, forestry and fishery)",2007,USD,118.3936268449
+AND,2008-01-01,2008-12-31,Andorra,22026,"Value Added Deflator (Agriculture, forestry and fishery)",2008,USD,129.5937442629
+AND,2009-01-01,2009-12-31,Andorra,22026,"Value Added Deflator (Agriculture, forestry and fishery)",2009,USD,123.0643530456
+AND,2010-01-01,2010-12-31,Andorra,22026,"Value Added Deflator (Agriculture, forestry and fishery)",2010,USD,117.7662692201
+AND,2011-01-01,2011-12-31,Andorra,22026,"Value Added Deflator (Agriculture, forestry and fishery)",2011,USD,123.8524950831
+AND,2012-01-01,2012-12-31,Andorra,22026,"Value Added Deflator (Agriculture, forestry and fishery)",2012,USD,114.6727487149
+AND,2013-01-01,2013-12-31,Andorra,22026,"Value Added Deflator (Agriculture, forestry and fishery)",2013,USD,119.0313323491
+AND,2014-01-01,2014-12-31,Andorra,22026,"Value Added Deflator (Agriculture, forestry and fishery)",2014,USD,118.8413580996
+AND,2015-01-01,2015-12-31,Andorra,22026,"Value Added Deflator (Agriculture, forestry and fishery)",2015,USD,100.0
+AND,2016-01-01,2016-12-31,Andorra,22026,"Value Added Deflator (Agriculture, forestry and fishery)",2016,USD,100.0842014818
+AND,2017-01-01,2017-12-31,Andorra,22026,"Value Added Deflator (Agriculture, forestry and fishery)",2017,USD,103.3746987304
+AND,2018-01-01,2018-12-31,Andorra,22026,"Value Added Deflator (Agriculture, forestry and fishery)",2018,USD,109.1606779098
+AND,2019-01-01,2019-12-31,Andorra,22026,"Value Added Deflator (Agriculture, forestry and fishery)",2019,USD,104.8826157527
+AND,2020-01-01,2020-12-31,Andorra,22026,"Value Added Deflator (Agriculture, forestry and fishery)",2020,USD,108.2113148626
+AND,2021-01-01,2021-12-31,Andorra,22026,"Value Added Deflator (Agriculture, forestry and fishery)",2021,USD,114.9312735961
+AND,2022-01-01,2022-12-31,Andorra,22026,"Value Added Deflator (Agriculture, forestry and fishery)",2022,USD,106.5073042261
+AND,2023-01-01,2023-12-31,Andorra,22026,"Value Added Deflator (Agriculture, forestry and fishery)",2023,USD,110.6275778277
+AND,1970-01-01,1970-12-31,Andorra,22028,Value Added Deflator (Manufacturing),1970,SLC,5.1810755812
+AND,1971-01-01,1971-12-31,Andorra,22028,Value Added Deflator (Manufacturing),1971,SLC,5.5875838642
+AND,1972-01-01,1972-12-31,Andorra,22028,Value Added Deflator (Manufacturing),1972,SLC,6.0635301735
+AND,1973-01-01,1973-12-31,Andorra,22028,Value Added Deflator (Manufacturing),1973,SLC,6.7820337948
+AND,1974-01-01,1974-12-31,Andorra,22028,Value Added Deflator (Manufacturing),1974,SLC,7.8634365368
+AND,1975-01-01,1975-12-31,Andorra,22028,Value Added Deflator (Manufacturing),1975,SLC,9.1830612887
+AND,1976-01-01,1976-12-31,Andorra,22028,Value Added Deflator (Manufacturing),1976,SLC,10.6973409483
+AND,1977-01-01,1977-12-31,Andorra,22028,Value Added Deflator (Manufacturing),1977,SLC,13.1987077897
+AND,1978-01-01,1978-12-31,Andorra,22028,Value Added Deflator (Manufacturing),1978,SLC,15.9217386297
+AND,1979-01-01,1979-12-31,Andorra,22028,Value Added Deflator (Manufacturing),1979,SLC,18.6175485332
+AND,1980-01-01,1980-12-31,Andorra,22028,Value Added Deflator (Manufacturing),1980,SLC,21.1038900275
+AND,1981-01-01,1981-12-31,Andorra,22028,Value Added Deflator (Manufacturing),1981,SLC,23.7104723377
+AND,1982-01-01,1982-12-31,Andorra,22028,Value Added Deflator (Manufacturing),1982,SLC,26.9309053534
+AND,1983-01-01,1983-12-31,Andorra,22028,Value Added Deflator (Manufacturing),1983,SLC,30.1314403617
+AND,1984-01-01,1984-12-31,Andorra,22028,Value Added Deflator (Manufacturing),1984,SLC,33.4051408044
+AND,1985-01-01,1985-12-31,Andorra,22028,Value Added Deflator (Manufacturing),1985,SLC,36.2764729602
+AND,1986-01-01,1986-12-31,Andorra,22028,Value Added Deflator (Manufacturing),1986,SLC,40.22292406
+AND,1987-01-01,1987-12-31,Andorra,22028,Value Added Deflator (Manufacturing),1987,SLC,42.6138537794
+AND,1988-01-01,1988-12-31,Andorra,22028,Value Added Deflator (Manufacturing),1988,SLC,45.1434661437
+AND,1989-01-01,1989-12-31,Andorra,22028,Value Added Deflator (Manufacturing),1989,SLC,48.2566478234
+AND,1990-01-01,1990-12-31,Andorra,22028,Value Added Deflator (Manufacturing),1990,SLC,51.7920505122
+AND,1991-01-01,1991-12-31,Andorra,22028,Value Added Deflator (Manufacturing),1991,SLC,55.3839013785
+AND,1992-01-01,1992-12-31,Andorra,22028,Value Added Deflator (Manufacturing),1992,SLC,59.1005887729
+AND,1993-01-01,1993-12-31,Andorra,22028,Value Added Deflator (Manufacturing),1993,SLC,61.7821246464
+AND,1994-01-01,1994-12-31,Andorra,22028,Value Added Deflator (Manufacturing),1994,SLC,64.1791735916
+AND,1995-01-01,1995-12-31,Andorra,22028,Value Added Deflator (Manufacturing),1995,SLC,67.3452155391
+AND,1996-01-01,1996-12-31,Andorra,22028,Value Added Deflator (Manufacturing),1996,SLC,69.1974072872
+AND,1997-01-01,1997-12-31,Andorra,22028,Value Added Deflator (Manufacturing),1997,SLC,70.739230518
+AND,1998-01-01,1998-12-31,Andorra,22028,Value Added Deflator (Manufacturing),1998,SLC,71.8000080814
+AND,1999-01-01,1999-12-31,Andorra,22028,Value Added Deflator (Manufacturing),1999,SLC,73.7615672881
+AND,2000-01-01,2000-12-31,Andorra,22028,Value Added Deflator (Manufacturing),2000,SLC,76.8017985191
+AND,2001-01-01,2001-12-31,Andorra,22028,Value Added Deflator (Manufacturing),2001,SLC,79.1680150547
+AND,2002-01-01,2002-12-31,Andorra,22028,Value Added Deflator (Manufacturing),2002,SLC,81.7327001183
+AND,2003-01-01,2003-12-31,Andorra,22028,Value Added Deflator (Manufacturing),2003,SLC,84.3296935333
+AND,2004-01-01,2004-12-31,Andorra,22028,Value Added Deflator (Manufacturing),2004,SLC,86.8952550895
+AND,2005-01-01,2005-12-31,Andorra,22028,Value Added Deflator (Manufacturing),2005,SLC,89.8466912183
+AND,2006-01-01,2006-12-31,Andorra,22028,Value Added Deflator (Manufacturing),2006,SLC,92.9525200081
+AND,2007-01-01,2007-12-31,Andorra,22028,Value Added Deflator (Manufacturing),2007,SLC,95.9374113419
+AND,2008-01-01,2008-12-31,Andorra,22028,Value Added Deflator (Manufacturing),2008,SLC,98.1195523872
+AND,2009-01-01,2009-12-31,Andorra,22028,Value Added Deflator (Manufacturing),2009,SLC,98.248962788
+AND,2010-01-01,2010-12-31,Andorra,22028,Value Added Deflator (Manufacturing),2010,SLC,98.6169202704
+AND,2011-01-01,2011-12-31,Andorra,22028,Value Added Deflator (Manufacturing),2011,SLC,98.8111332215
+AND,2012-01-01,2012-12-31,Andorra,22028,Value Added Deflator (Manufacturing),2012,SLC,98.9831805297
+AND,2013-01-01,2013-12-31,Andorra,22028,Value Added Deflator (Manufacturing),2013,SLC,99.4273289536
+AND,2014-01-01,2014-12-31,Andorra,22028,Value Added Deflator (Manufacturing),2014,SLC,99.3439733357
+AND,2015-01-01,2015-12-31,Andorra,22028,Value Added Deflator (Manufacturing),2015,SLC,100.0
+AND,2016-01-01,2016-12-31,Andorra,22028,Value Added Deflator (Manufacturing),2016,SLC,100.3479615575
+AND,2017-01-01,2017-12-31,Andorra,22028,Value Added Deflator (Manufacturing),2017,SLC,101.4883200538
+AND,2018-01-01,2018-12-31,Andorra,22028,Value Added Deflator (Manufacturing),2018,SLC,102.5157920376
+AND,2019-01-01,2019-12-31,Andorra,22028,Value Added Deflator (Manufacturing),2019,SLC,103.9266760794
+AND,2020-01-01,2020-12-31,Andorra,22028,Value Added Deflator (Manufacturing),2020,SLC,105.0890726833
+AND,2021-01-01,2021-12-31,Andorra,22028,Value Added Deflator (Manufacturing),2021,SLC,107.7682081937
+AND,2022-01-01,2022-12-31,Andorra,22028,Value Added Deflator (Manufacturing),2022,SLC,112.3373650674
+AND,1970-01-01,1970-12-31,Andorra,22028,Value Added Deflator (Manufacturing),1970,USD,11.1040388371
+AND,1971-01-01,1971-12-31,Andorra,22028,Value Added Deflator (Manufacturing),1971,USD,12.0668572642
+AND,1972-01-01,1972-12-31,Andorra,22028,Value Added Deflator (Manufacturing),1972,USD,14.1535947011
+AND,1973-01-01,1973-12-31,Andorra,22028,Value Added Deflator (Manufacturing),1973,USD,17.4641692985
+AND,1974-01-01,1974-12-31,Andorra,22028,Value Added Deflator (Manufacturing),1974,USD,20.4501868732
+AND,1975-01-01,1975-12-31,Andorra,22028,Value Added Deflator (Manufacturing),1975,USD,23.9984032239
+AND,1976-01-01,1976-12-31,Andorra,22028,Value Added Deflator (Manufacturing),1976,USD,23.9877697331
+AND,1977-01-01,1977-12-31,Andorra,22028,Value Added Deflator (Manufacturing),1977,USD,26.0672406234
+AND,1978-01-01,1978-12-31,Andorra,22028,Value Added Deflator (Manufacturing),1978,USD,31.1556190514
+AND,1979-01-01,1979-12-31,Andorra,22028,Value Added Deflator (Manufacturing),1979,USD,41.609958313
+AND,1980-01-01,1980-12-31,Andorra,22028,Value Added Deflator (Manufacturing),1980,USD,44.1561128782
+AND,1981-01-01,1981-12-31,Andorra,22028,Value Added Deflator (Manufacturing),1981,USD,38.5296328182
+AND,1982-01-01,1982-12-31,Andorra,22028,Value Added Deflator (Manufacturing),1982,USD,36.7767830637
+AND,1983-01-01,1983-12-31,Andorra,22028,Value Added Deflator (Manufacturing),1983,USD,31.5165906699
+AND,1984-01-01,1984-12-31,Andorra,22028,Value Added Deflator (Manufacturing),1984,USD,31.173939799
+AND,1985-01-01,1985-12-31,Andorra,22028,Value Added Deflator (Manufacturing),1985,USD,32.0053525078
+AND,1986-01-01,1986-12-31,Andorra,22028,Value Added Deflator (Manufacturing),1986,USD,43.0878325598
+AND,1987-01-01,1987-12-31,Andorra,22028,Value Added Deflator (Manufacturing),1987,USD,51.7748843164
+AND,1988-01-01,1988-12-31,Andorra,22028,Value Added Deflator (Manufacturing),1988,USD,58.1402837429
+AND,1989-01-01,1989-12-31,Andorra,22028,Value Added Deflator (Manufacturing),1989,USD,61.1570402908
+AND,1990-01-01,1990-12-31,Andorra,22028,Value Added Deflator (Manufacturing),1990,USD,76.2260611055
+AND,1991-01-01,1991-12-31,Andorra,22028,Value Added Deflator (Manufacturing),1991,USD,79.9610830075
+AND,1992-01-01,1992-12-31,Andorra,22028,Value Added Deflator (Manufacturing),1992,USD,86.6043398256
+AND,1993-01-01,1993-12-31,Andorra,22028,Value Added Deflator (Manufacturing),1993,USD,72.8330644425
+AND,1994-01-01,1994-12-31,Andorra,22028,Value Added Deflator (Manufacturing),1994,USD,71.8761317899
+AND,1995-01-01,1995-12-31,Andorra,22028,Value Added Deflator (Manufacturing),1995,USD,81.0284796093
+AND,1996-01-01,1996-12-31,Andorra,22028,Value Added Deflator (Manufacturing),1996,USD,81.9603859052
+AND,1997-01-01,1997-12-31,Andorra,22028,Value Added Deflator (Manufacturing),1997,USD,72.4832925501
+AND,1998-01-01,1998-12-31,Andorra,22028,Value Added Deflator (Manufacturing),1998,USD,72.1018737468
+AND,1999-01-01,1999-12-31,Andorra,22028,Value Added Deflator (Manufacturing),1999,USD,70.8564303238
+AND,2000-01-01,2000-12-31,Andorra,22028,Value Added Deflator (Manufacturing),2000,USD,63.8004208015
+AND,2001-01-01,2001-12-31,Andorra,22028,Value Added Deflator (Manufacturing),2001,USD,63.8764308592
+AND,2002-01-01,2002-12-31,Andorra,22028,Value Added Deflator (Manufacturing),2002,USD,69.3566476179
+AND,2003-01-01,2003-12-31,Andorra,22028,Value Added Deflator (Manufacturing),2003,USD,85.8168079374
+AND,2004-01-01,2004-12-31,Andorra,22028,Value Added Deflator (Manufacturing),2004,USD,97.2849397175
+AND,2005-01-01,2005-12-31,Andorra,22028,Value Added Deflator (Manufacturing),2005,USD,100.7450061071
+AND,2006-01-01,2006-12-31,Andorra,22028,Value Added Deflator (Manufacturing),2006,USD,105.1401072029
+AND,2007-01-01,2007-12-31,Andorra,22028,Value Added Deflator (Manufacturing),2007,USD,118.3936311688
+AND,2008-01-01,2008-12-31,Andorra,22028,Value Added Deflator (Manufacturing),2008,USD,129.5937468688
+AND,2009-01-01,2009-12-31,Andorra,22028,Value Added Deflator (Manufacturing),2009,USD,123.0643536062
+AND,2010-01-01,2010-12-31,Andorra,22028,Value Added Deflator (Manufacturing),2010,USD,117.7662729841
+AND,2011-01-01,2011-12-31,Andorra,22028,Value Added Deflator (Manufacturing),2011,USD,123.8524961513
+AND,2012-01-01,2012-12-31,Andorra,22028,Value Added Deflator (Manufacturing),2012,USD,114.6727553899
+AND,2013-01-01,2013-12-31,Andorra,22028,Value Added Deflator (Manufacturing),2013,USD,119.0313340709
+AND,2014-01-01,2014-12-31,Andorra,22028,Value Added Deflator (Manufacturing),2014,USD,118.8413573703
+AND,2015-01-01,2015-12-31,Andorra,22028,Value Added Deflator (Manufacturing),2015,USD,100.0
+AND,2016-01-01,2016-12-31,Andorra,22028,Value Added Deflator (Manufacturing),2016,USD,100.0842069333
+AND,2017-01-01,2017-12-31,Andorra,22028,Value Added Deflator (Manufacturing),2017,USD,103.3746993479
+AND,2018-01-01,2018-12-31,Andorra,22028,Value Added Deflator (Manufacturing),2018,USD,109.1606828975
+AND,2019-01-01,2019-12-31,Andorra,22028,Value Added Deflator (Manufacturing),2019,USD,104.901947297
+AND,2020-01-01,2020-12-31,Andorra,22028,Value Added Deflator (Manufacturing),2020,USD,108.2282259518
+AND,2021-01-01,2021-12-31,Andorra,22028,Value Added Deflator (Manufacturing),2021,USD,114.9270778215
+AND,2022-01-01,2022-12-31,Andorra,22028,Value Added Deflator (Manufacturing),2022,USD,106.5183902488

@@ -1,0 +1,881 @@
+Iso3,StartDate,EndDate,Area Code,Area Code (M49),Area,Item Code,Item,Element Code,Element,Months Code,Months,Year Code,Year,Unit,Value,Flag,Note
+#country+code,#date+start,#date+end,,,#country+name,#indicator+code,#indicator+name,,,,,,#date+year,#indicator+type,#indicator+value+num,,
+AND,2000-01-01,2000-01-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2000,2000,,69.750392,I,base year is 2015
+AND,2001-01-01,2001-01-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2001,2001,,72.955186,I,base year is 2015
+AND,2002-01-01,2002-01-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2002,2002,,76.198847,I,base year is 2015
+AND,2003-01-01,2003-01-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2003,2003,,79.750527,I,base year is 2015
+AND,2004-01-01,2004-01-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2004,2004,,81.911210,I,base year is 2015
+AND,2005-01-01,2005-01-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2005,2005,,83.385668,I,base year is 2015
+AND,2006-01-01,2006-01-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2006,2006,,85.184691,I,base year is 2015
+AND,2007-01-01,2007-01-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2007,2007,,87.132088,I,base year is 2015
+AND,2008-01-01,2008-01-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2008,2008,,88.736372,I,base year is 2015
+AND,2009-01-01,2009-01-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2009,2009,,92.862998,I,base year is 2015
+AND,2010-01-01,2010-01-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2010,2010,,92.260232,I,base year is 2015
+AND,2011-01-01,2011-01-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2011,2011,,92.417878,I,base year is 2015
+AND,2012-01-01,2012-01-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2012,2012,,93.252477,I,base year is 2015
+AND,2013-01-01,2013-01-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2013,2013,,95.839732,I,base year is 2015
+AND,2014-01-01,2014-01-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2014,2014,,98.148788,X,base year is 2015
+AND,2015-01-01,2015-01-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2015,2015,,99.261587,X,base year is 2015
+AND,2016-01-01,2016-01-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2016,2016,,100.485664,X,base year is 2015
+AND,2017-01-01,2017-01-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2017,2017,,102.711260,X,base year is 2015
+AND,2018-01-01,2018-01-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2018,2018,,105.159416,X,base year is 2015
+AND,2019-01-01,2019-01-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2019,2019,,106.272214,X,base year is 2015
+AND,2020-01-01,2020-01-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2020,2020,,108.497810,X,base year is 2015
+AND,2021-01-01,2021-01-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2021,2021,,110.167007,X,base year is 2015
+AND,2022-01-01,2022-01-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2022,2022,,113.616681,X,base year is 2015
+AND,2023-01-01,2023-01-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2023,2023,,129.640973,X,base year is 2015
+AND,2024-01-01,2024-01-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2024,2024,,139.099757,X,base year is 2015
+AND,2000-02-01,2000-02-29,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2000,2000,,70.017458,I,base year is 2015
+AND,2001-02-01,2001-02-28,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2001,2001,,73.222252,I,base year is 2015
+AND,2002-02-01,2002-02-28,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2002,2002,,76.504866,I,base year is 2015
+AND,2003-02-01,2003-02-28,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2003,2003,,79.935994,I,base year is 2015
+AND,2004-02-01,2004-02-29,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2004,2004,,82.031763,I,base year is 2015
+AND,2005-02-01,2005-02-28,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2005,2005,,83.534041,I,base year is 2015
+AND,2006-02-01,2006-02-28,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2006,2006,,85.351611,I,base year is 2015
+AND,2007-02-01,2007-02-28,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2007,2007,,87.243368,I,base year is 2015
+AND,2008-02-01,2008-02-29,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2008,2008,,89.116578,I,base year is 2015
+AND,2009-02-01,2009-02-28,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2009,2009,,92.807358,I,base year is 2015
+AND,2010-02-01,2010-02-28,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2010,2010,,92.269505,I,base year is 2015
+AND,2011-02-01,2011-02-28,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2011,2011,,92.473518,I,base year is 2015
+AND,2012-02-01,2012-02-29,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2012,2012,,93.475037,I,base year is 2015
+AND,2013-02-01,2013-02-28,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2013,2013,,95.978832,I,base year is 2015
+AND,2014-02-01,2014-02-28,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2014,2014,,97.926229,X,base year is 2015
+AND,2015-02-01,2015-02-28,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2015,2015,,99.150307,X,base year is 2015
+AND,2016-02-01,2016-02-29,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2016,2016,,100.263105,X,base year is 2015
+AND,2017-02-01,2017-02-28,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2017,2017,,103.824059,X,base year is 2015
+AND,2018-02-01,2018-02-28,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2018,2018,,105.048136,X,base year is 2015
+AND,2019-02-01,2019-02-28,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2019,2019,,106.272214,X,base year is 2015
+AND,2020-02-01,2020-02-29,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2020,2020,,108.163971,X,base year is 2015
+AND,2021-02-01,2021-02-28,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2021,2021,,110.055728,X,base year is 2015
+AND,2022-02-01,2022-02-28,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2022,2022,,114.506920,X,base year is 2015
+AND,2023-02-01,2023-02-28,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2023,2023,,132.422969,X,base year is 2015
+AND,2024-02-01,2024-02-29,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2024,2024,,138.543358,X,base year is 2015
+AND,2000-03-01,2000-03-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2000,2000,,70.284524,I,base year is 2015
+AND,2001-03-01,2001-03-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2001,2001,,73.489318,I,base year is 2015
+AND,2002-03-01,2002-03-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2002,2002,,76.810886,I,base year is 2015
+AND,2003-03-01,2003-03-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2003,2003,,80.121460,I,base year is 2015
+AND,2004-03-01,2004-03-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2004,2004,,82.152316,I,base year is 2015
+AND,2005-03-01,2005-03-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2005,2005,,83.682414,I,base year is 2015
+AND,2006-03-01,2006-03-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2006,2006,,85.518531,I,base year is 2015
+AND,2007-03-01,2007-03-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2007,2007,,87.354647,I,base year is 2015
+AND,2008-03-01,2008-03-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2008,2008,,89.496784,I,base year is 2015
+AND,2009-03-01,2009-03-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2009,2009,,92.751718,I,base year is 2015
+AND,2010-03-01,2010-03-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2010,2010,,92.278779,I,base year is 2015
+AND,2011-03-01,2011-03-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2011,2011,,92.529158,I,base year is 2015
+AND,2012-03-01,2012-03-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2012,2012,,93.697596,I,base year is 2015
+AND,2013-03-01,2013-03-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2013,2013,,96.117932,I,base year is 2015
+AND,2014-03-01,2014-03-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2014,2014,,97.369830,X,base year is 2015
+AND,2015-03-01,2015-03-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2015,2015,,98.816467,X,base year is 2015
+AND,2016-03-01,2016-03-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2016,2016,,100.151825,X,base year is 2015
+AND,2017-03-01,2017-03-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2017,2017,,103.156380,X,base year is 2015
+AND,2018-03-01,2018-03-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2018,2018,,105.381976,X,base year is 2015
+AND,2019-03-01,2019-03-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2019,2019,,106.160934,X,base year is 2015
+AND,2020-03-01,2020-03-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2020,2020,,108.497810,X,base year is 2015
+AND,2021-03-01,2021-03-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2021,2021,,110.167007,X,base year is 2015
+AND,2022-03-01,2022-03-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2022,2022,,115.730998,X,base year is 2015
+AND,2023-03-01,2023-03-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2023,2023,,134.648565,X,base year is 2015
+AND,2024-03-01,2024-03-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2024,2024,,138.654638,X,base year is 2015
+AND,2000-04-01,2000-04-30,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2000,2000,,70.551590,I,base year is 2015
+AND,2001-04-01,2001-04-30,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2001,2001,,73.756385,I,base year is 2015
+AND,2002-04-01,2002-04-30,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2002,2002,,77.116905,I,base year is 2015
+AND,2003-04-01,2003-04-30,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2003,2003,,80.306926,I,base year is 2015
+AND,2004-04-01,2004-04-30,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2004,2004,,82.272870,I,base year is 2015
+AND,2005-04-01,2005-04-30,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2005,2005,,83.830787,I,base year is 2015
+AND,2006-04-01,2006-04-30,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2006,2006,,85.685450,I,base year is 2015
+AND,2007-04-01,2007-04-30,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2007,2007,,87.465927,I,base year is 2015
+AND,2008-04-01,2008-04-30,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2008,2008,,89.876990,I,base year is 2015
+AND,2009-04-01,2009-04-30,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2009,2009,,92.696078,I,base year is 2015
+AND,2010-04-01,2010-04-30,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2010,2010,,92.288052,I,base year is 2015
+AND,2011-04-01,2011-04-30,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2011,2011,,92.584798,I,base year is 2015
+AND,2012-04-01,2012-04-30,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2012,2012,,93.920156,I,base year is 2015
+AND,2013-04-01,2013-04-30,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2013,2013,,96.257032,I,base year is 2015
+AND,2014-04-01,2014-04-30,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2014,2014,,97.926229,X,base year is 2015
+AND,2015-04-01,2015-04-30,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2015,2015,,98.816467,X,base year is 2015
+AND,2016-04-01,2016-04-30,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2016,2016,,100.485664,X,base year is 2015
+AND,2017-04-01,2017-04-30,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2017,2017,,102.154861,X,base year is 2015
+AND,2018-04-01,2018-04-30,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2018,2018,,105.381976,X,base year is 2015
+AND,2019-04-01,2019-04-30,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2019,2019,,106.272214,X,base year is 2015
+AND,2020-04-01,2020-04-30,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2020,2020,,109.944448,X,base year is 2015
+AND,2021-04-01,2021-04-30,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2021,2021,,110.723406,X,base year is 2015
+AND,2022-04-01,2022-04-30,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2022,2022,,118.624273,X,base year is 2015
+AND,2023-04-01,2023-04-30,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2023,2023,,135.538803,X,base year is 2015
+AND,2024-04-01,2024-04-30,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2024,2024,,139.322316,X,base year is 2015
+AND,2000-05-01,2000-05-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2000,2000,,70.818657,I,base year is 2015
+AND,2001-05-01,2001-05-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2001,2001,,74.023451,I,base year is 2015
+AND,2002-05-01,2002-05-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2002,2002,,77.422925,I,base year is 2015
+AND,2003-05-01,2003-05-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2003,2003,,80.492393,I,base year is 2015
+AND,2004-05-01,2004-05-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2004,2004,,82.393423,I,base year is 2015
+AND,2005-05-01,2005-05-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2005,2005,,83.979160,I,base year is 2015
+AND,2006-05-01,2006-05-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2006,2006,,85.852370,I,base year is 2015
+AND,2007-05-01,2007-05-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2007,2007,,87.577207,I,base year is 2015
+AND,2008-05-01,2008-05-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2008,2008,,90.257196,I,base year is 2015
+AND,2009-05-01,2009-05-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2009,2009,,92.640438,I,base year is 2015
+AND,2010-05-01,2010-05-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2010,2010,,92.297325,I,base year is 2015
+AND,2011-05-01,2011-05-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2011,2011,,92.640438,I,base year is 2015
+AND,2012-05-01,2012-05-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2012,2012,,94.142715,I,base year is 2015
+AND,2013-05-01,2013-05-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2013,2013,,96.396132,I,base year is 2015
+AND,2014-05-01,2014-05-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2014,2014,,98.148788,X,base year is 2015
+AND,2015-05-01,2015-05-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2015,2015,,100.485664,X,base year is 2015
+AND,2016-05-01,2016-05-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2016,2016,,100.708224,X,base year is 2015
+AND,2017-05-01,2017-05-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2017,2017,,102.711260,X,base year is 2015
+AND,2018-05-01,2018-05-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2018,2018,,105.938375,X,base year is 2015
+AND,2019-05-01,2019-05-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2019,2019,,106.828613,X,base year is 2015
+AND,2020-05-01,2020-05-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2020,2020,,110.167007,X,base year is 2015
+AND,2021-05-01,2021-05-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2021,2021,,110.945966,X,base year is 2015
+AND,2022-05-01,2022-05-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2022,2022,,119.959630,X,base year is 2015
+AND,2023-05-01,2023-05-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2023,2023,,135.983922,X,base year is 2015
+AND,2024-05-01,2024-05-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2024,2024,,140.546394,X,base year is 2015
+AND,2000-06-01,2000-06-30,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2000,2000,,71.085723,I,base year is 2015
+AND,2001-06-01,2001-06-30,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2001,2001,,74.290517,I,base year is 2015
+AND,2002-06-01,2002-06-30,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2002,2002,,77.728944,I,base year is 2015
+AND,2003-06-01,2003-06-30,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2003,2003,,80.677859,I,base year is 2015
+AND,2004-06-01,2004-06-30,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2004,2004,,82.513976,I,base year is 2015
+AND,2005-06-01,2005-06-30,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2005,2005,,84.127533,I,base year is 2015
+AND,2006-06-01,2006-06-30,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2006,2006,,86.019290,I,base year is 2015
+AND,2007-06-01,2007-06-30,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2007,2007,,87.688487,I,base year is 2015
+AND,2008-06-01,2008-06-30,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2008,2008,,90.637402,I,base year is 2015
+AND,2009-06-01,2009-06-30,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2009,2009,,92.584798,I,base year is 2015
+AND,2010-06-01,2010-06-30,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2010,2010,,92.306599,I,base year is 2015
+AND,2011-06-01,2011-06-30,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2011,2011,,92.696078,I,base year is 2015
+AND,2012-06-01,2012-06-30,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2012,2012,,94.365275,I,base year is 2015
+AND,2013-06-01,2013-06-30,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2013,2013,,96.535231,I,base year is 2015
+AND,2014-06-01,2014-06-30,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2014,2014,,98.260068,X,base year is 2015
+AND,2015-06-01,2015-06-30,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2015,2015,,100.040545,X,base year is 2015
+AND,2016-06-01,2016-06-30,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2016,2016,,100.263105,X,base year is 2015
+AND,2017-06-01,2017-06-30,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2017,2017,,103.378939,X,base year is 2015
+AND,2018-06-01,2018-06-30,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2018,2018,,106.383494,X,base year is 2015
+AND,2019-06-01,2019-06-30,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2019,2019,,106.828613,X,base year is 2015
+AND,2020-06-01,2020-06-30,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2020,2020,,110.055728,X,base year is 2015
+AND,2021-06-01,2021-06-30,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2021,2021,,110.723406,X,base year is 2015
+AND,2022-06-01,2022-06-30,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2022,2022,,121.294988,X,base year is 2015
+AND,2023-06-01,2023-06-30,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2023,2023,,136.206482,X,base year is 2015
+AND,2024-06-01,2024-06-30,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2024,2024,,140.101275,X,base year is 2015
+AND,2000-07-01,2000-07-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2000,2000,,71.352789,I,base year is 2015
+AND,2001-07-01,2001-07-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2001,2001,,74.557583,I,base year is 2015
+AND,2002-07-01,2002-07-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2002,2002,,78.034964,I,base year is 2015
+AND,2003-07-01,2003-07-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2003,2003,,80.863325,I,base year is 2015
+AND,2004-07-01,2004-07-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2004,2004,,82.634529,I,base year is 2015
+AND,2005-07-01,2005-07-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2005,2005,,84.275906,I,base year is 2015
+AND,2006-07-01,2006-07-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2006,2006,,86.186209,I,base year is 2015
+AND,2007-07-01,2007-07-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2007,2007,,87.799767,I,base year is 2015
+AND,2008-07-01,2008-07-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2008,2008,,91.017608,I,base year is 2015
+AND,2009-07-01,2009-07-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2009,2009,,92.529158,I,base year is 2015
+AND,2010-07-01,2010-07-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2010,2010,,92.315872,I,base year is 2015
+AND,2011-07-01,2011-07-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2011,2011,,92.751718,I,base year is 2015
+AND,2012-07-01,2012-07-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2012,2012,,94.587835,I,base year is 2015
+AND,2013-07-01,2013-07-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2013,2013,,96.674331,I,base year is 2015
+AND,2014-07-01,2014-07-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2014,2014,,97.926229,X,base year is 2015
+AND,2015-07-01,2015-07-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2015,2015,,99.484146,X,base year is 2015
+AND,2016-07-01,2016-07-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2016,2016,,100.930784,X,base year is 2015
+AND,2017-07-01,2017-07-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2017,2017,,103.045100,X,base year is 2015
+AND,2018-07-01,2018-07-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2018,2018,,105.715815,X,base year is 2015
+AND,2019-07-01,2019-07-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2019,2019,,106.828613,X,base year is 2015
+AND,2020-07-01,2020-07-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2020,2020,,109.833168,X,base year is 2015
+AND,2021-07-01,2021-07-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2021,2021,,111.279806,X,base year is 2015
+AND,2022-07-01,2022-07-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2022,2022,,122.407786,X,base year is 2015
+AND,2023-07-01,2023-07-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2023,2023,,136.762881,X,base year is 2015
+AND,2024-07-01,2024-07-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2024,2024,,139.878716,X,base year is 2015
+AND,2000-08-01,2000-08-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2000,2000,,71.619855,I,base year is 2015
+AND,2001-08-01,2001-08-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2001,2001,,74.824649,I,base year is 2015
+AND,2002-08-01,2002-08-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2002,2002,,78.340983,I,base year is 2015
+AND,2003-08-01,2003-08-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2003,2003,,81.048792,I,base year is 2015
+AND,2004-08-01,2004-08-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2004,2004,,82.755082,I,base year is 2015
+AND,2005-08-01,2005-08-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2005,2005,,84.424279,I,base year is 2015
+AND,2006-08-01,2006-08-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2006,2006,,86.353129,I,base year is 2015
+AND,2007-08-01,2007-08-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2007,2007,,87.911046,I,base year is 2015
+AND,2008-08-01,2008-08-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2008,2008,,91.397814,I,base year is 2015
+AND,2009-08-01,2009-08-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2009,2009,,92.473518,I,base year is 2015
+AND,2010-08-01,2010-08-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2010,2010,,92.325145,I,base year is 2015
+AND,2011-08-01,2011-08-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2011,2011,,92.807358,I,base year is 2015
+AND,2012-08-01,2012-08-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2012,2012,,94.810394,I,base year is 2015
+AND,2013-08-01,2013-08-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2013,2013,,96.813431,I,base year is 2015
+AND,2014-08-01,2014-08-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2014,2014,,98.482628,X,base year is 2015
+AND,2015-08-01,2015-08-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2015,2015,,100.485664,X,base year is 2015
+AND,2016-08-01,2016-08-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2016,2016,,100.819504,X,base year is 2015
+AND,2017-08-01,2017-08-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2017,2017,,103.267660,X,base year is 2015
+AND,2018-08-01,2018-08-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2018,2018,,105.827095,X,base year is 2015
+AND,2019-08-01,2019-08-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2019,2019,,107.162453,X,base year is 2015
+AND,2020-08-01,2020-08-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2020,2020,,109.833168,X,base year is 2015
+AND,2021-08-01,2021-08-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2021,2021,,111.836205,X,base year is 2015
+AND,2022-08-01,2022-08-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2022,2022,,123.520584,X,base year is 2015
+AND,2023-08-01,2023-08-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2023,2023,,137.764399,X,base year is 2015
+AND,2024-08-01,2024-08-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2024,2024,,139.767436,X,base year is 2015
+AND,2000-09-01,2000-09-30,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2000,2000,,71.886921,I,base year is 2015
+AND,2001-09-01,2001-09-30,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2001,2001,,75.091715,I,base year is 2015
+AND,2002-09-01,2002-09-30,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2002,2002,,78.647003,I,base year is 2015
+AND,2003-09-01,2003-09-30,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2003,2003,,81.234258,I,base year is 2015
+AND,2004-09-01,2004-09-30,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2004,2004,,82.875635,I,base year is 2015
+AND,2005-09-01,2005-09-30,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2005,2005,,84.572652,I,base year is 2015
+AND,2006-09-01,2006-09-30,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2006,2006,,86.520049,I,base year is 2015
+AND,2007-09-01,2007-09-30,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2007,2007,,88.022326,I,base year is 2015
+AND,2008-09-01,2008-09-30,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2008,2008,,91.778020,I,base year is 2015
+AND,2009-09-01,2009-09-30,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2009,2009,,92.417878,I,base year is 2015
+AND,2010-09-01,2010-09-30,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2010,2010,,92.334419,I,base year is 2015
+AND,2011-09-01,2011-09-30,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2011,2011,,92.862998,I,base year is 2015
+AND,2012-09-01,2012-09-30,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2012,2012,,95.032954,I,base year is 2015
+AND,2013-09-01,2013-09-30,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2013,2013,,96.952531,I,base year is 2015
+AND,2014-09-01,2014-09-30,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2014,2014,,98.482628,X,base year is 2015
+AND,2015-09-01,2015-09-30,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2015,2015,,100.930784,X,base year is 2015
+AND,2016-09-01,2016-09-30,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2016,2016,,101.487183,X,base year is 2015
+AND,2017-09-01,2017-09-30,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2017,2017,,104.936857,X,base year is 2015
+AND,2018-09-01,2018-09-30,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2018,2018,,106.049655,X,base year is 2015
+AND,2019-09-01,2019-09-30,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2019,2019,,107.718852,X,base year is 2015
+AND,2020-09-01,2020-09-30,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2020,2020,,110.278287,X,base year is 2015
+AND,2021-09-01,2021-09-30,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2021,2021,,111.836205,X,base year is 2015
+AND,2022-09-01,2022-09-30,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2022,2022,,124.744662,X,base year is 2015
+AND,2023-09-01,2023-09-30,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2023,2023,,137.986959,X,base year is 2015
+AND,2024-09-01,2024-09-30,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2024,2024,,139.989995,X,base year is 2015
+AND,2000-10-01,2000-10-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2000,2000,,72.153987,I,base year is 2015
+AND,2001-10-01,2001-10-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2001,2001,,75.358782,I,base year is 2015
+AND,2002-10-01,2002-10-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2002,2002,,78.953022,I,base year is 2015
+AND,2003-10-01,2003-10-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2003,2003,,81.419724,I,base year is 2015
+AND,2004-10-01,2004-10-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2004,2004,,82.996188,I,base year is 2015
+AND,2005-10-01,2005-10-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2005,2005,,84.721025,I,base year is 2015
+AND,2006-10-01,2006-10-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2006,2006,,86.686968,I,base year is 2015
+AND,2007-10-01,2007-10-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2007,2007,,88.133606,I,base year is 2015
+AND,2008-10-01,2008-10-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2008,2008,,92.158226,I,base year is 2015
+AND,2009-10-01,2009-10-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2009,2009,,92.362239,I,base year is 2015
+AND,2010-10-01,2010-10-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2010,2010,,92.343692,I,base year is 2015
+AND,2011-10-01,2011-10-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2011,2011,,92.918638,I,base year is 2015
+AND,2012-10-01,2012-10-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2012,2012,,95.255514,I,base year is 2015
+AND,2013-10-01,2013-10-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2013,2013,,97.091630,I,base year is 2015
+AND,2014-10-01,2014-10-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2014,2014,,99.150307,X,base year is 2015
+AND,2015-10-01,2015-10-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2015,2015,,101.264623,X,base year is 2015
+AND,2016-10-01,2016-10-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2016,2016,,101.375903,X,base year is 2015
+AND,2017-10-01,2017-10-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2017,2017,,105.715815,X,base year is 2015
+AND,2018-10-01,2018-10-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2018,2018,,106.160934,X,base year is 2015
+AND,2019-10-01,2019-10-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2019,2019,,107.830132,X,base year is 2015
+AND,2020-10-01,2020-10-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2020,2020,,110.278287,X,base year is 2015
+AND,2021-10-01,2021-10-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2021,2021,,112.170044,X,base year is 2015
+AND,2022-10-01,2022-10-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2022,2022,,126.302579,X,base year is 2015
+AND,2023-10-01,2023-10-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2023,2023,,138.320798,X,base year is 2015
+AND,2000-11-01,2000-11-30,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2000,2000,,72.421054,I,base year is 2015
+AND,2001-11-01,2001-11-30,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2001,2001,,75.625848,I,base year is 2015
+AND,2002-11-01,2002-11-30,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2002,2002,,79.259041,I,base year is 2015
+AND,2003-11-01,2003-11-30,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2003,2003,,81.605191,I,base year is 2015
+AND,2004-11-01,2004-11-30,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2004,2004,,83.116741,I,base year is 2015
+AND,2005-11-01,2005-11-30,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2005,2005,,84.869398,I,base year is 2015
+AND,2006-11-01,2006-11-30,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2006,2006,,86.853888,I,base year is 2015
+AND,2007-11-01,2007-11-30,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2007,2007,,88.244886,I,base year is 2015
+AND,2008-11-01,2008-11-30,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2008,2008,,92.538432,I,base year is 2015
+AND,2009-11-01,2009-11-30,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2009,2009,,92.306599,I,base year is 2015
+AND,2010-11-01,2010-11-30,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2010,2010,,92.352965,I,base year is 2015
+AND,2011-11-01,2011-11-30,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2011,2011,,92.974277,I,base year is 2015
+AND,2012-11-01,2012-11-30,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2012,2012,,95.478073,I,base year is 2015
+AND,2013-11-01,2013-11-30,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2013,2013,,97.230730,I,base year is 2015
+AND,2014-11-01,2014-11-30,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2014,2014,,99.817986,X,base year is 2015
+AND,2015-11-01,2015-11-30,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2015,2015,,100.930784,X,base year is 2015
+AND,2016-11-01,2016-11-30,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2016,2016,,101.042063,X,base year is 2015
+AND,2017-11-01,2017-11-30,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2017,2017,,105.159416,X,base year is 2015
+AND,2018-11-01,2018-11-30,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2018,2018,,106.606054,X,base year is 2015
+AND,2019-11-01,2019-11-30,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2019,2019,,108.052691,X,base year is 2015
+AND,2020-11-01,2020-11-30,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2020,2020,,109.944448,X,base year is 2015
+AND,2021-11-01,2021-11-30,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2021,2021,,112.615163,X,base year is 2015
+AND,2022-11-01,2022-11-30,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2022,2022,,126.858978,X,base year is 2015
+AND,2023-11-01,2023-11-30,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2023,2023,,138.543358,X,base year is 2015
+AND,2000-12-01,2000-12-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2000,2000,,72.688120,I,base year is 2015
+AND,2001-12-01,2001-12-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2001,2001,,75.892827,X,base year is 2015
+AND,2002-12-01,2002-12-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2002,2002,,79.565061,X,base year is 2015
+AND,2003-12-01,2003-12-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2003,2003,,81.790657,X,base year is 2015
+AND,2004-12-01,2004-12-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2004,2004,,83.237295,X,base year is 2015
+AND,2005-12-01,2005-12-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2005,2005,,85.017771,X,base year is 2015
+AND,2006-12-01,2006-12-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2006,2006,,87.020808,X,base year is 2015
+AND,2007-12-01,2007-12-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2007,2007,,88.356166,X,base year is 2015
+AND,2008-12-01,2008-12-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2008,2008,,92.918638,X,base year is 2015
+AND,2009-12-01,2009-12-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2009,2009,,92.250959,X,base year is 2015
+AND,2010-12-01,2010-12-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2010,2010,,92.362239,X,base year is 2015
+AND,2011-12-01,2011-12-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2011,2011,,93.029917,X,base year is 2015
+AND,2012-12-01,2012-12-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2012,2012,,95.700633,X,base year is 2015
+AND,2013-12-01,2013-12-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2013,2013,,97.369830,X,base year is 2015
+AND,2014-12-01,2014-12-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2014,2014,,98.705187,X,base year is 2015
+AND,2015-12-01,2015-12-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2015,2015,,100.374385,X,base year is 2015
+AND,2016-12-01,2016-12-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2016,2016,,101.932302,X,base year is 2015
+AND,2017-12-01,2017-12-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2017,2017,,104.825577,X,base year is 2015
+AND,2018-12-01,2018-12-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2018,2018,,106.828613,X,base year is 2015
+AND,2019-12-01,2019-12-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2019,2019,,108.497810,X,base year is 2015
+AND,2020-12-01,2020-12-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2020,2020,,109.610608,X,base year is 2015
+AND,2021-12-01,2021-12-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2021,2021,,112.949003,X,base year is 2015
+AND,2022-12-01,2022-12-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2022,2022,,128.194336,X,base year is 2015
+AND,2023-12-01,2023-12-31,6,'020,Andorra,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2023,2023,,139.322316,X,base year is 2015
+AND,2000-01-01,2000-01-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2000,2000,,71.971512,I,base year is 2015
+AND,2001-01-01,2001-01-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2001,2001,,74.405720,I,base year is 2015
+AND,2002-01-01,2002-01-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2002,2002,,76.839404,I,base year is 2015
+AND,2003-01-01,2003-01-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2003,2003,,79.267300,I,base year is 2015
+AND,2004-01-01,2004-01-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2004,2004,,81.686400,I,base year is 2015
+AND,2005-01-01,2005-01-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2005,2005,,84.061516,I,base year is 2015
+AND,2006-01-01,2006-01-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2006,2006,,87.034810,I,base year is 2015
+AND,2007-01-01,2007-01-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2007,2007,,90.140054,I,base year is 2015
+AND,2008-01-01,2008-01-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2008,2008,,92.699901,I,base year is 2015
+AND,2009-01-01,2009-01-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2009,2009,,96.280169,I,base year is 2015
+AND,2010-01-01,2010-01-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2010,2010,,95.347716,I,base year is 2015
+AND,2011-01-01,2011-01-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2011,2011,,97.010297,I,base year is 2015
+AND,2012-01-01,2012-01-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2012,2012,,99.455787,I,base year is 2015
+AND,2013-01-01,2013-01-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2013,2013,,100.845670,I,base year is 2015
+AND,2014-01-01,2014-01-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2014,2014,,100.810483,X,base year is 2015
+AND,2015-01-01,2015-01-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2015,2015,,99.121512,X,base year is 2015
+AND,2016-01-01,2016-01-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2016,2016,,98.804829,X,base year is 2015
+AND,2017-01-01,2017-01-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2017,2017,,101.654969,X,base year is 2015
+AND,2018-01-01,2018-01-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2018,2018,,101.866090,X,base year is 2015
+AND,2019-01-01,2019-01-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2019,2019,,101.866090,X,base year is 2015
+AND,2020-01-01,2020-01-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2020,2020,,103.343940,X,base year is 2015
+AND,2021-01-01,2021-01-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2021,2021,,103.027258,X,base year is 2015
+AND,2022-01-01,2022-01-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2022,2022,,106.721883,X,base year is 2015
+AND,2023-01-01,2023-01-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2023,2023,,114.744497,X,base year is 2015
+AND,2024-01-01,2024-01-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2024,2024,,119.705851,X,base year is 2015
+AND,2000-02-01,2000-02-29,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2000,2000,,72.174362,I,base year is 2015
+AND,2001-02-01,2001-02-28,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2001,2001,,74.608571,I,base year is 2015
+AND,2002-02-01,2002-02-28,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2002,2002,,77.041729,I,base year is 2015
+AND,2003-02-01,2003-02-28,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2003,2003,,79.469625,I,base year is 2015
+AND,2004-02-01,2004-02-29,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2004,2004,,81.879928,I,base year is 2015
+AND,2005-02-01,2005-02-28,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2005,2005,,84.307825,I,base year is 2015
+AND,2006-02-01,2006-02-28,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2006,2006,,87.298711,I,base year is 2015
+AND,2007-02-01,2007-02-28,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2007,2007,,90.342379,I,base year is 2015
+AND,2008-02-01,2008-02-29,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2008,2008,,93.034177,I,base year is 2015
+AND,2009-02-01,2009-02-28,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2009,2009,,96.183405,I,base year is 2015
+AND,2010-02-01,2010-02-28,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2010,2010,,95.479667,I,base year is 2015
+AND,2011-02-01,2011-02-28,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2011,2011,,97.221419,I,base year is 2015
+AND,2012-02-01,2012-02-29,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2012,2012,,99.578941,I,base year is 2015
+AND,2013-02-01,2013-02-28,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2013,2013,,100.880857,I,base year is 2015
+AND,2014-02-01,2014-02-28,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2014,2014,,100.810483,X,base year is 2015
+AND,2015-02-01,2015-02-28,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2015,2015,,99.121512,X,base year is 2015
+AND,2016-02-01,2016-02-29,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2016,2016,,98.593708,X,base year is 2015
+AND,2017-02-01,2017-02-28,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2017,2017,,101.760529,X,base year is 2015
+AND,2018-02-01,2018-02-28,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2018,2018,,101.549408,X,base year is 2015
+AND,2019-02-01,2019-02-28,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2019,2019,,101.760529,X,base year is 2015
+AND,2020-02-01,2020-02-29,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2020,2020,,102.710576,X,base year is 2015
+AND,2021-02-01,2021-02-28,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2021,2021,,103.132819,X,base year is 2015
+AND,2022-02-01,2022-02-28,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2022,2022,,107.355247,X,base year is 2015
+AND,2023-02-01,2023-02-28,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2023,2023,,115.377862,X,base year is 2015
+AND,2024-02-01,2024-02-29,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2024,2024,,120.339215,X,base year is 2015
+AND,2000-03-01,2000-03-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2000,2000,,72.377213,I,base year is 2015
+AND,2001-03-01,2001-03-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2001,2001,,74.811422,I,base year is 2015
+AND,2002-03-01,2002-03-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2002,2002,,77.244053,I,base year is 2015
+AND,2003-03-01,2003-03-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2003,2003,,79.671950,I,base year is 2015
+AND,2004-03-01,2004-03-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2004,2004,,82.073456,I,base year is 2015
+AND,2005-03-01,2005-03-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2005,2005,,84.554133,I,base year is 2015
+AND,2006-03-01,2006-03-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2006,2006,,87.562613,I,base year is 2015
+AND,2007-03-01,2007-03-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2007,2007,,90.544703,I,base year is 2015
+AND,2008-03-01,2008-03-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2008,2008,,93.368453,I,base year is 2015
+AND,2009-03-01,2009-03-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2009,2009,,96.086641,I,base year is 2015
+AND,2010-03-01,2010-03-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2010,2010,,95.611618,I,base year is 2015
+AND,2011-03-01,2011-03-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2011,2011,,97.432540,I,base year is 2015
+AND,2012-03-01,2012-03-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2012,2012,,99.702095,I,base year is 2015
+AND,2013-03-01,2013-03-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2013,2013,,100.916044,I,base year is 2015
+AND,2014-03-01,2014-03-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2014,2014,,101.338287,X,base year is 2015
+AND,2015-03-01,2015-03-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2015,2015,,100.177119,X,base year is 2015
+AND,2016-03-01,2016-03-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2016,2016,,99.438194,X,base year is 2015
+AND,2017-03-01,2017-03-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2017,2017,,102.288333,X,base year is 2015
+AND,2018-03-01,2018-03-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2018,2018,,103.027258,X,base year is 2015
+AND,2019-03-01,2019-03-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2019,2019,,103.555062,X,base year is 2015
+AND,2020-03-01,2020-03-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2020,2020,,103.977304,X,base year is 2015
+AND,2021-03-01,2021-03-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2021,2021,,104.927351,X,base year is 2015
+AND,2022-03-01,2022-03-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2022,2022,,109.994265,X,base year is 2015
+AND,2023-03-01,2023-03-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2023,2023,,117.066833,X,base year is 2015
+AND,2024-03-01,2024-03-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2024,2024,,121.922626,X,base year is 2015
+AND,2000-04-01,2000-04-30,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2000,2000,,72.580064,I,base year is 2015
+AND,2001-04-01,2001-04-30,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2001,2001,,75.014272,I,base year is 2015
+AND,2002-04-01,2002-04-30,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2002,2002,,77.446378,I,base year is 2015
+AND,2003-04-01,2003-04-30,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2003,2003,,79.874274,I,base year is 2015
+AND,2004-04-01,2004-04-30,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2004,2004,,82.266984,I,base year is 2015
+AND,2005-04-01,2005-04-30,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2005,2005,,84.800441,I,base year is 2015
+AND,2006-04-01,2006-04-30,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2006,2006,,87.826515,I,base year is 2015
+AND,2007-04-01,2007-04-30,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2007,2007,,90.747028,I,base year is 2015
+AND,2008-04-01,2008-04-30,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2008,2008,,93.702728,I,base year is 2015
+AND,2009-04-01,2009-04-30,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2009,2009,,95.989877,I,base year is 2015
+AND,2010-04-01,2010-04-30,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2010,2010,,95.743569,I,base year is 2015
+AND,2011-04-01,2011-04-30,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2011,2011,,97.643662,I,base year is 2015
+AND,2012-04-01,2012-04-30,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2012,2012,,99.825250,I,base year is 2015
+AND,2013-04-01,2013-04-30,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2013,2013,,100.951231,I,base year is 2015
+AND,2014-04-01,2014-04-30,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2014,2014,,101.549408,X,base year is 2015
+AND,2015-04-01,2015-04-30,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2015,2015,,100.282679,X,base year is 2015
+AND,2016-04-01,2016-04-30,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2016,2016,,99.543754,X,base year is 2015
+AND,2017-04-01,2017-04-30,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2017,2017,,102.393894,X,base year is 2015
+AND,2018-04-01,2018-04-30,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2018,2018,,103.343940,X,base year is 2015
+AND,2019-04-01,2019-04-30,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2019,2019,,104.082865,X,base year is 2015
+AND,2020-04-01,2020-04-30,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2020,2020,,104.293987,X,base year is 2015
+AND,2021-04-01,2021-04-30,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2021,2021,,105.349594,X,base year is 2015
+AND,2022-04-01,2022-04-30,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2022,2022,,111.683237,X,base year is 2015
+AND,2023-04-01,2023-04-30,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2023,2023,,117.700197,X,base year is 2015
+AND,2024-04-01,2024-04-30,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2024,2024,,122.239308,X,base year is 2015
+AND,2000-05-01,2000-05-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2000,2000,,72.782914,I,base year is 2015
+AND,2001-05-01,2001-05-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2001,2001,,75.217123,I,base year is 2015
+AND,2002-05-01,2002-05-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2002,2002,,77.648703,I,base year is 2015
+AND,2003-05-01,2003-05-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2003,2003,,80.076599,I,base year is 2015
+AND,2004-05-01,2004-05-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2004,2004,,82.460512,I,base year is 2015
+AND,2005-05-01,2005-05-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2005,2005,,85.046750,I,base year is 2015
+AND,2006-05-01,2006-05-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2006,2006,,88.090417,I,base year is 2015
+AND,2007-05-01,2007-05-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2007,2007,,90.949353,I,base year is 2015
+AND,2008-05-01,2008-05-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2008,2008,,94.037004,I,base year is 2015
+AND,2009-05-01,2009-05-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2009,2009,,95.893113,I,base year is 2015
+AND,2010-05-01,2010-05-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2010,2010,,95.875520,I,base year is 2015
+AND,2011-05-01,2011-05-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2011,2011,,97.854783,I,base year is 2015
+AND,2012-05-01,2012-05-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2012,2012,,99.948404,I,base year is 2015
+AND,2013-05-01,2013-05-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2013,2013,,100.986418,I,base year is 2015
+AND,2014-05-01,2014-05-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2014,2014,,101.549408,X,base year is 2015
+AND,2015-05-01,2015-05-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2015,2015,,100.810483,X,base year is 2015
+AND,2016-05-01,2016-05-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2016,2016,,99.649315,X,base year is 2015
+AND,2017-05-01,2017-05-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2017,2017,,102.288333,X,base year is 2015
+AND,2018-05-01,2018-05-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2018,2018,,103.660622,X,base year is 2015
+AND,2019-05-01,2019-05-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2019,2019,,104.293987,X,base year is 2015
+AND,2020-05-01,2020-05-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2020,2020,,104.188426,X,base year is 2015
+AND,2021-05-01,2021-05-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2021,2021,,105.560715,X,base year is 2015
+AND,2022-05-01,2022-05-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2022,2022,,112.422162,X,base year is 2015
+AND,2023-05-01,2023-05-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2023,2023,,117.911319,X,base year is 2015
+AND,2024-05-01,2024-05-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2024,2024,,122.450430,X,base year is 2015
+AND,2000-06-01,2000-06-30,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2000,2000,,72.985765,I,base year is 2015
+AND,2001-06-01,2001-06-30,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2001,2001,,75.419974,I,base year is 2015
+AND,2002-06-01,2002-06-30,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2002,2002,,77.851027,I,base year is 2015
+AND,2003-06-01,2003-06-30,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2003,2003,,80.278924,I,base year is 2015
+AND,2004-06-01,2004-06-30,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2004,2004,,82.654040,I,base year is 2015
+AND,2005-06-01,2005-06-30,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2005,2005,,85.293058,I,base year is 2015
+AND,2006-06-01,2006-06-30,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2006,2006,,88.354319,I,base year is 2015
+AND,2007-06-01,2007-06-30,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2007,2007,,91.151678,I,base year is 2015
+AND,2008-06-01,2008-06-30,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2008,2008,,94.371279,I,base year is 2015
+AND,2009-06-01,2009-06-30,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2009,2009,,95.796349,I,base year is 2015
+AND,2010-06-01,2010-06-30,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2010,2010,,96.007470,I,base year is 2015
+AND,2011-06-01,2011-06-30,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2011,2011,,98.065904,I,base year is 2015
+AND,2012-06-01,2012-06-30,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2012,2012,,100.071558,I,base year is 2015
+AND,2013-06-01,2013-06-30,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2013,2013,,101.021604,I,base year is 2015
+AND,2014-06-01,2014-06-30,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2014,2014,,101.443847,X,base year is 2015
+AND,2015-06-01,2015-06-30,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2015,2015,,100.599362,X,base year is 2015
+AND,2016-06-01,2016-06-30,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2016,2016,,99.754876,X,base year is 2015
+AND,2017-06-01,2017-06-30,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2017,2017,,101.866090,X,base year is 2015
+AND,2018-06-01,2018-06-30,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2018,2018,,103.660622,X,base year is 2015
+AND,2019-06-01,2019-06-30,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2019,2019,,104.082865,X,base year is 2015
+AND,2020-06-01,2020-06-30,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2020,2020,,103.660622,X,base year is 2015
+AND,2021-06-01,2021-06-30,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2021,2021,,105.560715,X,base year is 2015
+AND,2022-06-01,2022-06-30,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2022,2022,,113.372208,X,base year is 2015
+AND,2023-06-01,2023-06-30,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2023,2023,,118.333562,X,base year is 2015
+AND,2024-06-01,2024-06-30,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2024,2024,,122.133747,X,base year is 2015
+AND,2000-07-01,2000-07-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2000,2000,,73.188616,I,base year is 2015
+AND,2001-07-01,2001-07-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2001,2001,,75.622824,I,base year is 2015
+AND,2002-07-01,2002-07-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2002,2002,,78.053352,I,base year is 2015
+AND,2003-07-01,2003-07-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2003,2003,,80.481249,I,base year is 2015
+AND,2004-07-01,2004-07-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2004,2004,,82.847568,I,base year is 2015
+AND,2005-07-01,2005-07-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2005,2005,,85.539366,I,base year is 2015
+AND,2006-07-01,2006-07-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2006,2006,,88.618220,I,base year is 2015
+AND,2007-07-01,2007-07-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2007,2007,,91.354002,I,base year is 2015
+AND,2008-07-01,2008-07-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2008,2008,,94.705555,I,base year is 2015
+AND,2009-07-01,2009-07-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2009,2009,,95.699585,I,base year is 2015
+AND,2010-07-01,2010-07-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2010,2010,,96.139421,I,base year is 2015
+AND,2011-07-01,2011-07-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2011,2011,,98.277026,I,base year is 2015
+AND,2012-07-01,2012-07-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2012,2012,,100.194712,I,base year is 2015
+AND,2013-07-01,2013-07-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2013,2013,,101.056791,I,base year is 2015
+AND,2014-07-01,2014-07-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2014,2014,,101.021604,X,base year is 2015
+AND,2015-07-01,2015-07-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2015,2015,,99.965997,X,base year is 2015
+AND,2016-07-01,2016-07-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2016,2016,,99.227072,X,base year is 2015
+AND,2017-07-01,2017-07-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2017,2017,,101.232726,X,base year is 2015
+AND,2018-07-01,2018-07-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2018,2018,,102.921697,X,base year is 2015
+AND,2019-07-01,2019-07-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2019,2019,,103.449501,X,base year is 2015
+AND,2020-07-01,2020-07-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2020,2020,,103.555062,X,base year is 2015
+AND,2021-07-01,2021-07-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2021,2021,,105.455154,X,base year is 2015
+AND,2022-07-01,2022-07-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2022,2022,,113.161087,X,base year is 2015
+AND,2023-07-01,2023-07-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2023,2023,,118.228001,X,base year is 2015
+AND,2024-07-01,2024-07-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2024,2024,,121.817065,X,base year is 2015
+AND,2000-08-01,2000-08-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2000,2000,,73.391467,I,base year is 2015
+AND,2001-08-01,2001-08-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2001,2001,,75.825675,I,base year is 2015
+AND,2002-08-01,2002-08-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2002,2002,,78.255677,I,base year is 2015
+AND,2003-08-01,2003-08-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2003,2003,,80.683573,I,base year is 2015
+AND,2004-08-01,2004-08-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2004,2004,,83.041096,I,base year is 2015
+AND,2005-08-01,2005-08-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2005,2005,,85.785675,I,base year is 2015
+AND,2006-08-01,2006-08-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2006,2006,,88.882122,I,base year is 2015
+AND,2007-08-01,2007-08-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2007,2007,,91.556327,I,base year is 2015
+AND,2008-08-01,2008-08-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2008,2008,,95.039831,I,base year is 2015
+AND,2009-08-01,2009-08-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2009,2009,,95.602821,I,base year is 2015
+AND,2010-08-01,2010-08-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2010,2010,,96.271372,I,base year is 2015
+AND,2011-08-01,2011-08-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2011,2011,,98.488147,I,base year is 2015
+AND,2012-08-01,2012-08-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2012,2012,,100.317866,I,base year is 2015
+AND,2013-08-01,2013-08-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2013,2013,,101.091978,I,base year is 2015
+AND,2014-08-01,2014-08-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2014,2014,,101.127165,X,base year is 2015
+AND,2015-08-01,2015-08-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2015,2015,,99.965997,X,base year is 2015
+AND,2016-08-01,2016-08-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2016,2016,,99.332633,X,base year is 2015
+AND,2017-08-01,2017-08-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2017,2017,,101.549408,X,base year is 2015
+AND,2018-08-01,2018-08-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2018,2018,,102.710576,X,base year is 2015
+AND,2019-08-01,2019-08-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2019,2019,,103.343940,X,base year is 2015
+AND,2020-08-01,2020-08-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2020,2020,,103.555062,X,base year is 2015
+AND,2021-08-01,2021-08-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2021,2021,,105.666276,X,base year is 2015
+AND,2022-08-01,2022-08-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2022,2022,,112.844405,X,base year is 2015
+AND,2023-08-01,2023-08-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2023,2023,,119.283608,X,base year is 2015
+AND,2024-08-01,2024-08-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2024,2024,,121.817065,X,base year is 2015
+AND,2000-09-01,2000-09-30,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2000,2000,,73.594317,I,base year is 2015
+AND,2001-09-01,2001-09-30,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2001,2001,,76.028526,I,base year is 2015
+AND,2002-09-01,2002-09-30,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2002,2002,,78.458002,I,base year is 2015
+AND,2003-09-01,2003-09-30,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2003,2003,,80.885898,I,base year is 2015
+AND,2004-09-01,2004-09-30,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2004,2004,,83.234624,I,base year is 2015
+AND,2005-09-01,2005-09-30,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2005,2005,,86.031983,I,base year is 2015
+AND,2006-09-01,2006-09-30,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2006,2006,,89.146024,I,base year is 2015
+AND,2007-09-01,2007-09-30,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2007,2007,,91.758652,I,base year is 2015
+AND,2008-09-01,2008-09-30,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2008,2008,,95.374106,I,base year is 2015
+AND,2009-09-01,2009-09-30,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2009,2009,,95.506057,I,base year is 2015
+AND,2010-09-01,2010-09-30,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2010,2010,,96.403323,I,base year is 2015
+AND,2011-09-01,2011-09-30,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2011,2011,,98.699269,I,base year is 2015
+AND,2012-09-01,2012-09-30,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2012,2012,,100.441020,I,base year is 2015
+AND,2013-09-01,2013-09-30,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2013,2013,,101.127165,I,base year is 2015
+AND,2014-09-01,2014-09-30,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2014,2014,,101.549408,X,base year is 2015
+AND,2015-09-01,2015-09-30,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2015,2015,,100.177119,X,base year is 2015
+AND,2016-09-01,2016-09-30,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2016,2016,,99.860437,X,base year is 2015
+AND,2017-09-01,2017-09-30,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2017,2017,,102.288333,X,base year is 2015
+AND,2018-09-01,2018-09-30,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2018,2018,,103.977304,X,base year is 2015
+AND,2019-09-01,2019-09-30,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2019,2019,,104.610669,X,base year is 2015
+AND,2020-09-01,2020-09-30,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2020,2020,,104.188426,X,base year is 2015
+AND,2021-09-01,2021-09-30,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2021,2021,,106.405201,X,base year is 2015
+AND,2022-09-01,2022-09-30,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2022,2022,,113.688890,X,base year is 2015
+AND,2023-09-01,2023-09-30,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2023,2023,,120.550337,X,base year is 2015
+AND,2024-09-01,2024-09-30,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2024,2024,,122.661551,X,base year is 2015
+AND,2000-10-01,2000-10-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2000,2000,,73.797168,I,base year is 2015
+AND,2001-10-01,2001-10-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2001,2001,,76.231377,I,base year is 2015
+AND,2002-10-01,2002-10-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2002,2002,,78.660326,I,base year is 2015
+AND,2003-10-01,2003-10-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2003,2003,,81.088223,I,base year is 2015
+AND,2004-10-01,2004-10-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2004,2004,,83.428152,I,base year is 2015
+AND,2005-10-01,2005-10-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2005,2005,,86.278291,I,base year is 2015
+AND,2006-10-01,2006-10-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2006,2006,,89.409926,I,base year is 2015
+AND,2007-10-01,2007-10-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2007,2007,,91.960976,I,base year is 2015
+AND,2008-10-01,2008-10-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2008,2008,,95.708382,I,base year is 2015
+AND,2009-10-01,2009-10-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2009,2009,,95.409293,I,base year is 2015
+AND,2010-10-01,2010-10-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2010,2010,,96.535274,I,base year is 2015
+AND,2011-10-01,2011-10-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2011,2011,,98.910390,I,base year is 2015
+AND,2012-10-01,2012-10-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2012,2012,,100.564175,I,base year is 2015
+AND,2013-10-01,2013-10-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2013,2013,,101.162352,I,base year is 2015
+AND,2014-10-01,2014-10-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2014,2014,,101.338287,X,base year is 2015
+AND,2015-10-01,2015-10-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2015,2015,,100.071558,X,base year is 2015
+AND,2016-10-01,2016-10-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2016,2016,,100.071558,X,base year is 2015
+AND,2017-10-01,2017-10-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2017,2017,,102.710576,X,base year is 2015
+AND,2018-10-01,2018-10-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2018,2018,,103.977304,X,base year is 2015
+AND,2019-10-01,2019-10-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2019,2019,,104.505108,X,base year is 2015
+AND,2020-10-01,2020-10-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2020,2020,,104.293987,X,base year is 2015
+AND,2021-10-01,2021-10-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2021,2021,,106.933004,X,base year is 2015
+AND,2022-10-01,2022-10-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2022,2022,,114.427815,X,base year is 2015
+AND,2023-10-01,2023-10-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2023,2023,,120.867019,X,base year is 2015
+AND,2000-11-01,2000-11-30,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2000,2000,,74.000019,I,base year is 2015
+AND,2001-11-01,2001-11-30,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2001,2001,,76.434227,I,base year is 2015
+AND,2002-11-01,2002-11-30,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2002,2002,,78.862651,I,base year is 2015
+AND,2003-11-01,2003-11-30,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2003,2003,,81.290547,I,base year is 2015
+AND,2004-11-01,2004-11-30,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2004,2004,,83.621680,I,base year is 2015
+AND,2005-11-01,2005-11-30,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2005,2005,,86.524600,I,base year is 2015
+AND,2006-11-01,2006-11-30,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2006,2006,,89.673828,I,base year is 2015
+AND,2007-11-01,2007-11-30,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2007,2007,,92.163301,I,base year is 2015
+AND,2008-11-01,2008-11-30,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2008,2008,,96.042657,I,base year is 2015
+AND,2009-11-01,2009-11-30,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2009,2009,,95.312529,I,base year is 2015
+AND,2010-11-01,2010-11-30,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2010,2010,,96.667225,I,base year is 2015
+AND,2011-11-01,2011-11-30,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2011,2011,,99.121512,I,base year is 2015
+AND,2012-11-01,2012-11-30,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2012,2012,,100.687329,I,base year is 2015
+AND,2013-11-01,2013-11-30,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2013,2013,,101.197539,I,base year is 2015
+AND,2014-11-01,2014-11-30,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2014,2014,,101.127165,X,base year is 2015
+AND,2015-11-01,2015-11-30,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2015,2015,,100.071558,X,base year is 2015
+AND,2016-11-01,2016-11-30,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2016,2016,,100.177119,X,base year is 2015
+AND,2017-11-01,2017-11-30,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2017,2017,,102.921697,X,base year is 2015
+AND,2018-11-01,2018-11-30,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2018,2018,,103.871744,X,base year is 2015
+AND,2019-11-01,2019-11-30,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2019,2019,,104.505108,X,base year is 2015
+AND,2020-11-01,2020-11-30,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2020,2020,,104.082865,X,base year is 2015
+AND,2021-11-01,2021-11-30,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2021,2021,,107.460808,X,base year is 2015
+AND,2022-11-01,2022-11-30,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2022,2022,,114.744497,X,base year is 2015
+AND,2023-11-01,2023-11-30,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2023,2023,,120.444776,X,base year is 2015
+AND,2000-12-01,2000-12-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2000,2000,,74.202869,I,base year is 2015
+AND,2001-12-01,2001-12-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2001,2001,,76.637079,X,base year is 2015
+AND,2002-12-01,2002-12-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2002,2002,,79.064976,X,base year is 2015
+AND,2003-12-01,2003-12-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2003,2003,,81.492872,X,base year is 2015
+AND,2004-12-01,2004-12-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2004,2004,,83.815208,X,base year is 2015
+AND,2005-12-01,2005-12-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2005,2005,,86.770908,X,base year is 2015
+AND,2006-12-01,2006-12-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2006,2006,,89.937729,X,base year is 2015
+AND,2007-12-01,2007-12-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2007,2007,,92.365626,X,base year is 2015
+AND,2008-12-01,2008-12-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2008,2008,,96.376933,X,base year is 2015
+AND,2009-12-01,2009-12-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2009,2009,,95.215765,X,base year is 2015
+AND,2010-12-01,2010-12-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2010,2010,,96.799176,X,base year is 2015
+AND,2011-12-01,2011-12-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2011,2011,,99.332633,X,base year is 2015
+AND,2012-12-01,2012-12-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2012,2012,,100.810483,X,base year is 2015
+AND,2013-12-01,2013-12-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2013,2013,,101.232726,X,base year is 2015
+AND,2014-12-01,2014-12-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2014,2014,,100.177119,X,base year is 2015
+AND,2015-12-01,2015-12-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2015,2015,,99.649315,X,base year is 2015
+AND,2016-12-01,2016-12-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2016,2016,,100.599362,X,base year is 2015
+AND,2017-12-01,2017-12-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2017,2017,,103.027258,X,base year is 2015
+AND,2018-12-01,2018-12-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2018,2018,,103.449501,X,base year is 2015
+AND,2019-12-01,2019-12-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2019,2019,,104.505108,X,base year is 2015
+AND,2020-12-01,2020-12-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2020,2020,,103.871744,X,base year is 2015
+AND,2021-12-01,2021-12-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2021,2021,,107.355247,X,base year is 2015
+AND,2022-12-01,2022-12-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2022,2022,,114.955619,X,base year is 2015
+AND,2023-12-01,2023-12-31,6,'020,Andorra,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2023,2023,,120.233655,X,base year is 2015
+AND,2001-01-01,2001-01-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7001,January,2001,2001,%,4.594661,E,
+AND,2002-01-01,2002-01-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7001,January,2002,2002,%,4.446100,E,
+AND,2003-01-01,2003-01-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7001,January,2003,2003,%,4.661069,E,
+AND,2004-01-01,2004-01-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7001,January,2004,2004,%,2.709302,E,
+AND,2005-01-01,2005-01-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7001,January,2005,2005,%,1.800068,E,
+AND,2006-01-01,2006-01-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7001,January,2006,2006,%,2.157473,E,
+AND,2007-01-01,2007-01-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7001,January,2007,2007,%,2.286088,E,
+AND,2008-01-01,2008-01-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7001,January,2008,2008,%,1.841209,E,
+AND,2009-01-01,2009-01-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7001,January,2009,2009,%,4.650434,E,
+AND,2010-01-01,2010-01-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7001,January,2010,2010,%,-0.649091,E,
+AND,2011-01-01,2011-01-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7001,January,2011,2011,%,0.170871,E,
+AND,2012-01-01,2012-01-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7001,January,2012,2012,%,0.903070,E,
+AND,2013-01-01,2013-01-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7001,January,2013,2013,%,2.774463,E,
+AND,2014-01-01,2014-01-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7001,January,2014,2014,%,2.409289,E,
+AND,2015-01-01,2015-01-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7001,January,2015,2015,%,1.133787,E,
+AND,2016-01-01,2016-01-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7001,January,2016,2016,%,1.233184,E,
+AND,2017-01-01,2017-01-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7001,January,2017,2017,%,2.214839,E,
+AND,2018-01-01,2018-01-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7001,January,2018,2018,%,2.383532,E,
+AND,2019-01-01,2019-01-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7001,January,2019,2019,%,1.058201,E,
+AND,2020-01-01,2020-01-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7001,January,2020,2020,%,2.094241,E,
+AND,2021-01-01,2021-01-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7001,January,2021,2021,%,1.538462,E,
+AND,2022-01-01,2022-01-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7001,January,2022,2022,%,3.131313,E,
+AND,2023-01-01,2023-01-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7001,January,2023,2023,%,14.103820,E,
+AND,2024-01-01,2024-01-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7001,January,2024,2024,%,7.296137,E,
+AND,2001-02-01,2001-02-28,6,'020,Andorra,23014,Food price inflation,6121,Value,7002,February,2001,2001,%,4.577136,E,
+AND,2002-02-01,2002-02-28,6,'020,Andorra,23014,Food price inflation,6121,Value,7002,February,2002,2002,%,4.483083,E,
+AND,2003-02-01,2003-02-28,6,'020,Andorra,23014,Food price inflation,6121,Value,7002,February,2003,2003,%,4.484848,E,
+AND,2004-02-01,2004-02-29,6,'020,Andorra,23014,Food price inflation,6121,Value,7002,February,2004,2004,%,2.621810,E,
+AND,2005-02-01,2005-02-28,6,'020,Andorra,23014,Food price inflation,6121,Value,7002,February,2005,2005,%,1.831336,E,
+AND,2006-02-01,2006-02-28,6,'020,Andorra,23014,Food price inflation,6121,Value,7002,February,2006,2006,%,2.175844,E,
+AND,2007-02-01,2007-02-28,6,'020,Andorra,23014,Food price inflation,6121,Value,7002,February,2007,2007,%,2.216428,E,
+AND,2008-02-01,2008-02-29,6,'020,Andorra,23014,Food price inflation,6121,Value,7002,February,2008,2008,%,2.147109,E,
+AND,2009-02-01,2009-02-28,6,'020,Andorra,23014,Food price inflation,6121,Value,7002,February,2009,2009,%,4.141519,E,
+AND,2010-02-01,2010-02-28,6,'020,Andorra,23014,Food price inflation,6121,Value,7002,February,2010,2010,%,-0.579536,E,
+AND,2011-02-01,2011-02-28,6,'020,Andorra,23014,Food price inflation,6121,Value,7002,February,2011,2011,%,0.221106,E,
+AND,2012-02-01,2012-02-29,6,'020,Andorra,23014,Food price inflation,6121,Value,7002,February,2012,2012,%,1.083032,E,
+AND,2013-02-01,2013-02-28,6,'020,Andorra,23014,Food price inflation,6121,Value,7002,February,2013,2013,%,2.678571,E,
+AND,2014-02-01,2014-02-28,6,'020,Andorra,23014,Food price inflation,6121,Value,7002,February,2014,2014,%,2.028986,E,
+AND,2015-02-01,2015-02-28,6,'020,Andorra,23014,Food price inflation,6121,Value,7002,February,2015,2015,%,1.250000,E,
+AND,2016-02-01,2016-02-29,6,'020,Andorra,23014,Food price inflation,6121,Value,7002,February,2016,2016,%,1.122334,E,
+AND,2017-02-01,2017-02-28,6,'020,Andorra,23014,Food price inflation,6121,Value,7002,February,2017,2017,%,3.551609,E,
+AND,2018-02-01,2018-02-28,6,'020,Andorra,23014,Food price inflation,6121,Value,7002,February,2018,2018,%,1.178992,E,
+AND,2019-02-01,2019-02-28,6,'020,Andorra,23014,Food price inflation,6121,Value,7002,February,2019,2019,%,1.165254,E,
+AND,2020-02-01,2020-02-29,6,'020,Andorra,23014,Food price inflation,6121,Value,7002,February,2020,2020,%,1.780105,E,
+AND,2021-02-01,2021-02-28,6,'020,Andorra,23014,Food price inflation,6121,Value,7002,February,2021,2021,%,1.748971,E,
+AND,2022-02-01,2022-02-28,6,'020,Andorra,23014,Food price inflation,6121,Value,7002,February,2022,2022,%,4.044489,E,
+AND,2023-02-01,2023-02-28,6,'020,Andorra,23014,Food price inflation,6121,Value,7002,February,2023,2023,%,15.646259,E,
+AND,2024-02-01,2024-02-29,6,'020,Andorra,23014,Food price inflation,6121,Value,7002,February,2024,2024,%,4.621849,E,
+AND,2001-03-01,2001-03-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7003,March,2001,2001,%,4.559744,E,
+AND,2002-03-01,2002-03-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7003,March,2002,2002,%,4.519796,E,
+AND,2003-03-01,2003-03-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7003,March,2003,2003,%,4.310033,E,
+AND,2004-03-01,2004-03-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7003,March,2004,2004,%,2.534722,E,
+AND,2005-03-01,2005-03-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7003,March,2005,2005,%,1.862513,E,
+AND,2006-03-01,2006-03-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7003,March,2006,2006,%,2.194149,E,
+AND,2007-03-01,2007-03-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7003,March,2007,2007,%,2.147040,E,
+AND,2008-03-01,2008-03-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7003,March,2008,2008,%,2.452229,E,
+AND,2009-03-01,2009-03-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7003,March,2009,2009,%,3.636929,E,
+AND,2010-03-01,2010-03-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7003,March,2010,2010,%,-0.509898,E,
+AND,2011-03-01,2011-03-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7003,March,2011,2011,%,0.271330,E,
+AND,2012-03-01,2012-03-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7003,March,2012,2012,%,1.262778,E,
+AND,2013-03-01,2013-03-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7003,March,2013,2013,%,2.583135,E,
+AND,2014-03-01,2014-03-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7003,March,2014,2014,%,1.302460,E,
+AND,2015-03-01,2015-03-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7003,March,2015,2015,%,1.485714,E,
+AND,2016-03-01,2016-03-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7003,March,2016,2016,%,1.351351,E,
+AND,2017-03-01,2017-03-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7003,March,2017,2017,%,3.000000,E,
+AND,2018-03-01,2018-03-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7003,March,2018,2018,%,2.157497,E,
+AND,2019-03-01,2019-03-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7003,March,2019,2019,%,0.739176,E,
+AND,2020-03-01,2020-03-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7003,March,2020,2020,%,2.201258,E,
+AND,2021-03-01,2021-03-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7003,March,2021,2021,%,1.538462,E,
+AND,2022-03-01,2022-03-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7003,March,2022,2022,%,5.050505,E,
+AND,2023-03-01,2023-03-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7003,March,2023,2023,%,16.346154,E,
+AND,2024-03-01,2024-03-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7003,March,2024,2024,%,2.975207,E,
+AND,2001-04-01,2001-04-30,6,'020,Andorra,23014,Food price inflation,6121,Value,7004,April,2001,2001,%,4.542483,E,
+AND,2002-04-01,2002-04-30,6,'020,Andorra,23014,Food price inflation,6121,Value,7004,April,2002,2002,%,4.556244,E,
+AND,2003-04-01,2003-04-30,6,'020,Andorra,23014,Food price inflation,6121,Value,7004,April,2003,2003,%,4.136604,E,
+AND,2004-04-01,2004-04-30,6,'020,Andorra,23014,Food price inflation,6121,Value,7004,April,2004,2004,%,2.448037,E,
+AND,2005-04-01,2005-04-30,6,'020,Andorra,23014,Food price inflation,6121,Value,7004,April,2005,2005,%,1.893598,E,
+AND,2006-04-01,2006-04-30,6,'020,Andorra,23014,Food price inflation,6121,Value,7004,April,2006,2006,%,2.212389,E,
+AND,2007-04-01,2007-04-30,6,'020,Andorra,23014,Food price inflation,6121,Value,7004,April,2007,2007,%,2.077922,E,
+AND,2008-04-01,2008-04-30,6,'020,Andorra,23014,Food price inflation,6121,Value,7004,April,2008,2008,%,2.756573,E,
+AND,2009-04-01,2009-04-30,6,'020,Andorra,23014,Food price inflation,6121,Value,7004,April,2009,2009,%,3.136608,E,
+AND,2010-04-01,2010-04-30,6,'020,Andorra,23014,Food price inflation,6121,Value,7004,April,2010,2010,%,-0.440176,E,
+AND,2011-04-01,2011-04-30,6,'020,Andorra,23014,Food price inflation,6121,Value,7004,April,2011,2011,%,0.321543,E,
+AND,2012-04-01,2012-04-30,6,'020,Andorra,23014,Food price inflation,6121,Value,7004,April,2012,2012,%,1.442308,E,
+AND,2013-04-01,2013-04-30,6,'020,Andorra,23014,Food price inflation,6121,Value,7004,April,2013,2013,%,2.488152,E,
+AND,2014-04-01,2014-04-30,6,'020,Andorra,23014,Food price inflation,6121,Value,7004,April,2014,2014,%,1.734104,E,
+AND,2015-04-01,2015-04-30,6,'020,Andorra,23014,Food price inflation,6121,Value,7004,April,2015,2015,%,0.909091,E,
+AND,2016-04-01,2016-04-30,6,'020,Andorra,23014,Food price inflation,6121,Value,7004,April,2016,2016,%,1.689189,E,
+AND,2017-04-01,2017-04-30,6,'020,Andorra,23014,Food price inflation,6121,Value,7004,April,2017,2017,%,1.661130,E,
+AND,2018-04-01,2018-04-30,6,'020,Andorra,23014,Food price inflation,6121,Value,7004,April,2018,2018,%,3.159041,E,
+AND,2019-04-01,2019-04-30,6,'020,Andorra,23014,Food price inflation,6121,Value,7004,April,2019,2019,%,0.844773,E,
+AND,2020-04-01,2020-04-30,6,'020,Andorra,23014,Food price inflation,6121,Value,7004,April,2020,2020,%,3.455497,E,
+AND,2021-04-01,2021-04-30,6,'020,Andorra,23014,Food price inflation,6121,Value,7004,April,2021,2021,%,0.708502,E,
+AND,2022-04-01,2022-04-30,6,'020,Andorra,23014,Food price inflation,6121,Value,7004,April,2022,2022,%,7.135678,E,
+AND,2023-04-01,2023-04-30,6,'020,Andorra,23014,Food price inflation,6121,Value,7004,April,2023,2023,%,14.258912,E,
+AND,2024-04-01,2024-04-30,6,'020,Andorra,23014,Food price inflation,6121,Value,7004,April,2024,2024,%,2.791461,E,
+AND,2001-05-01,2001-05-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7005,May,2001,2001,%,4.525353,E,
+AND,2002-05-01,2002-05-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7005,May,2002,2002,%,4.592428,E,
+AND,2003-05-01,2003-05-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7005,May,2003,2003,%,3.964547,E,
+AND,2004-05-01,2004-05-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7005,May,2004,2004,%,2.361751,E,
+AND,2005-05-01,2005-05-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7005,May,2005,2005,%,1.924592,E,
+AND,2006-05-01,2006-05-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7005,May,2006,2006,%,2.230565,E,
+AND,2007-05-01,2007-05-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7005,May,2007,2007,%,2.009073,E,
+AND,2008-05-01,2008-05-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7005,May,2008,2008,%,3.060144,E,
+AND,2009-05-01,2009-05-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7005,May,2009,2009,%,2.640501,E,
+AND,2010-05-01,2010-05-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7005,May,2010,2010,%,-0.370370,E,
+AND,2011-05-01,2011-05-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7005,May,2011,2011,%,0.371747,E,
+AND,2012-05-01,2012-05-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7005,May,2012,2012,%,1.621622,E,
+AND,2013-05-01,2013-05-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7005,May,2013,2013,%,2.393617,E,
+AND,2014-05-01,2014-05-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7005,May,2014,2014,%,1.818182,E,
+AND,2015-05-01,2015-05-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7005,May,2015,2015,%,2.380952,E,
+AND,2016-05-01,2016-05-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7005,May,2016,2016,%,0.221484,E,
+AND,2017-05-01,2017-05-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7005,May,2017,2017,%,1.988950,E,
+AND,2018-05-01,2018-05-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7005,May,2018,2018,%,3.141928,E,
+AND,2019-05-01,2019-05-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7005,May,2019,2019,%,0.840336,E,
+AND,2020-05-01,2020-05-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7005,May,2020,2020,%,3.125000,E,
+AND,2021-05-01,2021-05-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7005,May,2021,2021,%,0.707071,E,
+AND,2022-05-01,2022-05-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7005,May,2022,2022,%,8.124373,E,
+AND,2023-05-01,2023-05-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7005,May,2023,2023,%,13.358071,E,
+AND,2024-05-01,2024-05-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7005,May,2024,2024,%,3.355155,E,
+AND,2001-06-01,2001-06-30,6,'020,Andorra,23014,Food price inflation,6121,Value,7006,June,2001,2001,%,4.508351,E,
+AND,2002-06-01,2002-06-30,6,'020,Andorra,23014,Food price inflation,6121,Value,7006,June,2002,2002,%,4.628353,E,
+AND,2003-06-01,2003-06-30,6,'020,Andorra,23014,Food price inflation,6121,Value,7006,June,2003,2003,%,3.793844,E,
+AND,2004-06-01,2004-06-30,6,'020,Andorra,23014,Food price inflation,6121,Value,7006,June,2004,2004,%,2.275862,E,
+AND,2005-06-01,2005-06-30,6,'020,Andorra,23014,Food price inflation,6121,Value,7006,June,2005,2005,%,1.955496,E,
+AND,2006-06-01,2006-06-30,6,'020,Andorra,23014,Food price inflation,6121,Value,7006,June,2006,2006,%,2.248677,E,
+AND,2007-06-01,2007-06-30,6,'020,Andorra,23014,Food price inflation,6121,Value,7006,June,2007,2007,%,1.940492,E,
+AND,2008-06-01,2008-06-30,6,'020,Andorra,23014,Food price inflation,6121,Value,7006,June,2008,2008,%,3.362944,E,
+AND,2009-06-01,2009-06-30,6,'020,Andorra,23014,Food price inflation,6121,Value,7006,June,2009,2009,%,2.148557,E,
+AND,2010-06-01,2010-06-30,6,'020,Andorra,23014,Food price inflation,6121,Value,7006,June,2010,2010,%,-0.300481,E,
+AND,2011-06-01,2011-06-30,6,'020,Andorra,23014,Food price inflation,6121,Value,7006,June,2011,2011,%,0.421941,E,
+AND,2012-06-01,2012-06-30,6,'020,Andorra,23014,Food price inflation,6121,Value,7006,June,2012,2012,%,1.800720,E,
+AND,2013-06-01,2013-06-30,6,'020,Andorra,23014,Food price inflation,6121,Value,7006,June,2013,2013,%,2.299528,E,
+AND,2014-06-01,2014-06-30,6,'020,Andorra,23014,Food price inflation,6121,Value,7006,June,2014,2014,%,1.786744,E,
+AND,2015-06-01,2015-06-30,6,'020,Andorra,23014,Food price inflation,6121,Value,7006,June,2015,2015,%,1.812005,E,
+AND,2016-06-01,2016-06-30,6,'020,Andorra,23014,Food price inflation,6121,Value,7006,June,2016,2016,%,0.222469,E,
+AND,2017-06-01,2017-06-30,6,'020,Andorra,23014,Food price inflation,6121,Value,7006,June,2017,2017,%,3.107658,E,
+AND,2018-06-01,2018-06-30,6,'020,Andorra,23014,Food price inflation,6121,Value,7006,June,2018,2018,%,2.906351,E,
+AND,2019-06-01,2019-06-30,6,'020,Andorra,23014,Food price inflation,6121,Value,7006,June,2019,2019,%,0.418410,E,
+AND,2020-06-01,2020-06-30,6,'020,Andorra,23014,Food price inflation,6121,Value,7006,June,2020,2020,%,3.020833,E,
+AND,2021-06-01,2021-06-30,6,'020,Andorra,23014,Food price inflation,6121,Value,7006,June,2021,2021,%,0.606673,E,
+AND,2022-06-01,2022-06-30,6,'020,Andorra,23014,Food price inflation,6121,Value,7006,June,2022,2022,%,9.547739,E,
+AND,2023-06-01,2023-06-30,6,'020,Andorra,23014,Food price inflation,6121,Value,7006,June,2023,2023,%,12.293578,E,
+AND,2024-06-01,2024-06-30,6,'020,Andorra,23014,Food price inflation,6121,Value,7006,June,2024,2024,%,2.859477,E,
+AND,2001-07-01,2001-07-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7007,July,2001,2001,%,4.491477,E,
+AND,2002-07-01,2002-07-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7007,July,2002,2002,%,4.664020,E,
+AND,2003-07-01,2003-07-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7007,July,2003,2003,%,3.624480,E,
+AND,2004-07-01,2004-07-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7007,July,2004,2004,%,2.190367,E,
+AND,2005-07-01,2005-07-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7007,July,2005,2005,%,1.986309,E,
+AND,2006-07-01,2006-07-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7007,July,2006,2006,%,2.266725,E,
+AND,2007-07-01,2007-07-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7007,July,2007,2007,%,1.872176,E,
+AND,2008-07-01,2008-07-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7007,July,2008,2008,%,3.664977,E,
+AND,2009-07-01,2009-07-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7007,July,2009,2009,%,1.660723,E,
+AND,2010-07-01,2010-07-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7007,July,2010,2010,%,-0.230507,E,
+AND,2011-07-01,2011-07-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7007,July,2011,2011,%,0.472125,E,
+AND,2012-07-01,2012-07-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7007,July,2012,2012,%,1.979604,E,
+AND,2013-07-01,2013-07-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7007,July,2013,2013,%,2.205882,E,
+AND,2014-07-01,2014-07-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7007,July,2014,2014,%,1.294964,E,
+AND,2015-07-01,2015-07-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7007,July,2015,2015,%,1.590909,E,
+AND,2016-07-01,2016-07-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7007,July,2016,2016,%,1.454139,E,
+AND,2017-07-01,2017-07-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7007,July,2017,2017,%,2.094818,E,
+AND,2018-07-01,2018-07-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7007,July,2018,2018,%,2.591793,E,
+AND,2019-07-01,2019-07-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7007,July,2019,2019,%,1.052632,E,
+AND,2020-07-01,2020-07-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7007,July,2020,2020,%,2.812500,E,
+AND,2021-07-01,2021-07-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7007,July,2021,2021,%,1.317123,E,
+AND,2022-07-01,2022-07-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7007,July,2022,2022,%,10.000000,E,
+AND,2023-07-01,2023-07-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7007,July,2023,2023,%,11.727273,E,
+AND,2024-07-01,2024-07-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7007,July,2024,2024,%,2.278275,E,
+AND,2001-08-01,2001-08-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7008,August,2001,2001,%,4.474729,E,
+AND,2002-08-01,2002-08-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7008,August,2002,2002,%,4.699432,E,
+AND,2003-08-01,2003-08-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7008,August,2003,2003,%,3.456439,E,
+AND,2004-08-01,2004-08-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7008,August,2004,2004,%,2.105263,E,
+AND,2005-08-01,2005-08-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7008,August,2005,2005,%,2.017033,E,
+AND,2006-08-01,2006-08-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7008,August,2006,2006,%,2.284710,E,
+AND,2007-08-01,2007-08-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7008,August,2007,2007,%,1.804124,E,
+AND,2008-08-01,2008-08-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7008,August,2008,2008,%,3.966245,E,
+AND,2009-08-01,2009-08-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7008,August,2009,2009,%,1.176948,E,
+AND,2010-08-01,2010-08-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7008,August,2010,2010,%,-0.160449,E,
+AND,2011-08-01,2011-08-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7008,August,2011,2011,%,0.522298,E,
+AND,2012-08-01,2012-08-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7008,August,2012,2012,%,2.158273,E,
+AND,2013-08-01,2013-08-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7008,August,2013,2013,%,2.112676,E,
+AND,2014-08-01,2014-08-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7008,August,2014,2014,%,1.724138,E,
+AND,2015-08-01,2015-08-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7008,August,2015,2015,%,2.033898,E,
+AND,2016-08-01,2016-08-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7008,August,2016,2016,%,0.332226,E,
+AND,2017-08-01,2017-08-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7008,August,2017,2017,%,2.428256,E,
+AND,2018-08-01,2018-08-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7008,August,2018,2018,%,2.478448,E,
+AND,2019-08-01,2019-08-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7008,August,2019,2019,%,1.261830,E,
+AND,2020-08-01,2020-08-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7008,August,2020,2020,%,2.492212,E,
+AND,2021-08-01,2021-08-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7008,August,2021,2021,%,1.823708,E,
+AND,2022-08-01,2022-08-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7008,August,2022,2022,%,10.447761,E,
+AND,2023-08-01,2023-08-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7008,August,2023,2023,%,11.531532,E,
+AND,2024-08-01,2024-08-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7008,August,2024,2024,%,1.453958,E,
+AND,2001-09-01,2001-09-30,6,'020,Andorra,23014,Food price inflation,6121,Value,7009,September,2001,2001,%,4.458105,E,
+AND,2002-09-01,2002-09-30,6,'020,Andorra,23014,Food price inflation,6121,Value,7009,September,2002,2002,%,4.734593,E,
+AND,2003-09-01,2003-09-30,6,'020,Andorra,23014,Food price inflation,6121,Value,7009,September,2003,2003,%,3.289706,E,
+AND,2004-09-01,2004-09-30,6,'020,Andorra,23014,Food price inflation,6121,Value,7009,September,2004,2004,%,2.020548,E,
+AND,2005-09-01,2005-09-30,6,'020,Andorra,23014,Food price inflation,6121,Value,7009,September,2005,2005,%,2.047667,E,
+AND,2006-09-01,2006-09-30,6,'020,Andorra,23014,Food price inflation,6121,Value,7009,September,2006,2006,%,2.302632,E,
+AND,2007-09-01,2007-09-30,6,'020,Andorra,23014,Food price inflation,6121,Value,7009,September,2007,2007,%,1.736334,E,
+AND,2008-09-01,2008-09-30,6,'020,Andorra,23014,Food price inflation,6121,Value,7009,September,2008,2008,%,4.266751,E,
+AND,2009-09-01,2009-09-30,6,'020,Andorra,23014,Food price inflation,6121,Value,7009,September,2009,2009,%,0.697181,E,
+AND,2010-09-01,2010-09-30,6,'020,Andorra,23014,Food price inflation,6121,Value,7009,September,2010,2010,%,-0.090307,E,
+AND,2011-09-01,2011-09-30,6,'020,Andorra,23014,Food price inflation,6121,Value,7009,September,2011,2011,%,0.572462,E,
+AND,2012-09-01,2012-09-30,6,'020,Andorra,23014,Food price inflation,6121,Value,7009,September,2012,2012,%,2.336729,E,
+AND,2013-09-01,2013-09-30,6,'020,Andorra,23014,Food price inflation,6121,Value,7009,September,2013,2013,%,2.019906,E,
+AND,2014-09-01,2014-09-30,6,'020,Andorra,23014,Food price inflation,6121,Value,7009,September,2014,2014,%,1.578192,E,
+AND,2015-09-01,2015-09-30,6,'020,Andorra,23014,Food price inflation,6121,Value,7009,September,2015,2015,%,2.485876,E,
+AND,2016-09-01,2016-09-30,6,'020,Andorra,23014,Food price inflation,6121,Value,7009,September,2016,2016,%,0.551268,E,
+AND,2017-09-01,2017-09-30,6,'020,Andorra,23014,Food price inflation,6121,Value,7009,September,2017,2017,%,3.399123,E,
+AND,2018-09-01,2018-09-30,6,'020,Andorra,23014,Food price inflation,6121,Value,7009,September,2018,2018,%,1.060445,E,
+AND,2019-09-01,2019-09-30,6,'020,Andorra,23014,Food price inflation,6121,Value,7009,September,2019,2019,%,1.573977,E,
+AND,2020-09-01,2020-09-30,6,'020,Andorra,23014,Food price inflation,6121,Value,7009,September,2020,2020,%,2.376033,E,
+AND,2021-09-01,2021-09-30,6,'020,Andorra,23014,Food price inflation,6121,Value,7009,September,2021,2021,%,1.412714,E,
+AND,2022-09-01,2022-09-30,6,'020,Andorra,23014,Food price inflation,6121,Value,7009,September,2022,2022,%,11.542289,E,
+AND,2023-09-01,2023-09-30,6,'020,Andorra,23014,Food price inflation,6121,Value,7009,September,2023,2023,%,10.615522,E,
+AND,2024-09-01,2024-09-30,6,'020,Andorra,23014,Food price inflation,6121,Value,7009,September,2024,2024,%,1.451613,E,
+AND,2001-10-01,2001-10-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7010,October,2001,2001,%,4.441604,E,
+AND,2002-10-01,2002-10-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7010,October,2002,2002,%,4.769504,E,
+AND,2003-10-01,2003-10-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7010,October,2003,2003,%,3.124266,E,
+AND,2004-10-01,2004-10-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7010,October,2004,2004,%,1.936219,E,
+AND,2005-10-01,2005-10-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7010,October,2005,2005,%,2.078212,E,
+AND,2006-10-01,2006-10-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7010,October,2006,2006,%,2.320490,E,
+AND,2007-10-01,2007-10-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7010,October,2007,2007,%,1.668806,E,
+AND,2008-10-01,2008-10-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7010,October,2008,2008,%,4.566498,E,
+AND,2009-10-01,2009-10-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7010,October,2009,2009,%,0.221373,E,
+AND,2010-10-01,2010-10-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7010,October,2010,2010,%,-0.020080,E,
+AND,2011-10-01,2011-10-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7010,October,2011,2011,%,0.622615,E,
+AND,2012-10-01,2012-10-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7010,October,2012,2012,%,2.514970,E,
+AND,2013-10-01,2013-10-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7010,October,2013,2013,%,1.927570,E,
+AND,2014-10-01,2014-10-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7010,October,2014,2014,%,2.120344,E,
+AND,2015-10-01,2015-10-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7010,October,2015,2015,%,2.132435,E,
+AND,2016-10-01,2016-10-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7010,October,2016,2016,%,0.109890,E,
+AND,2017-10-01,2017-10-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7010,October,2017,2017,%,4.281010,E,
+AND,2018-10-01,2018-10-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7010,October,2018,2018,%,0.421053,E,
+AND,2019-10-01,2019-10-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7010,October,2019,2019,%,1.572327,E,
+AND,2020-10-01,2020-10-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7010,October,2020,2020,%,2.270382,E,
+AND,2021-10-01,2021-10-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7010,October,2021,2021,%,1.715439,E,
+AND,2022-10-01,2022-10-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7010,October,2022,2022,%,12.599206,E,
+AND,2023-10-01,2023-10-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7010,October,2023,2023,%,9.515419,E,
+AND,2001-11-01,2001-11-30,6,'020,Andorra,23014,Food price inflation,6121,Value,7011,November,2001,2001,%,4.425224,E,
+AND,2002-11-01,2002-11-30,6,'020,Andorra,23014,Food price inflation,6121,Value,7011,November,2002,2002,%,4.804169,E,
+AND,2003-11-01,2003-11-30,6,'020,Andorra,23014,Food price inflation,6121,Value,7011,November,2003,2003,%,2.960103,E,
+AND,2004-11-01,2004-11-30,6,'020,Andorra,23014,Food price inflation,6121,Value,7011,November,2004,2004,%,1.852273,E,
+AND,2005-11-01,2005-11-30,6,'020,Andorra,23014,Food price inflation,6121,Value,7011,November,2005,2005,%,2.108669,E,
+AND,2006-11-01,2006-11-30,6,'020,Andorra,23014,Food price inflation,6121,Value,7011,November,2006,2006,%,2.338287,E,
+AND,2007-11-01,2007-11-30,6,'020,Andorra,23014,Food price inflation,6121,Value,7011,November,2007,2007,%,1.601537,E,
+AND,2008-11-01,2008-11-30,6,'020,Andorra,23014,Food price inflation,6121,Value,7011,November,2008,2008,%,4.865490,E,
+AND,2009-11-01,2009-11-30,6,'020,Andorra,23014,Food price inflation,6121,Value,7011,November,2009,2009,%,-0.250526,E,
+AND,2010-11-01,2010-11-30,6,'020,Andorra,23014,Food price inflation,6121,Value,7011,November,2010,2010,%,0.050231,E,
+AND,2011-11-01,2011-11-30,6,'020,Andorra,23014,Food price inflation,6121,Value,7011,November,2011,2011,%,0.672758,E,
+AND,2012-11-01,2012-11-30,6,'020,Andorra,23014,Food price inflation,6121,Value,7011,November,2012,2012,%,2.692998,E,
+AND,2013-11-01,2013-11-30,6,'020,Andorra,23014,Food price inflation,6121,Value,7011,November,2013,2013,%,1.835664,E,
+AND,2014-11-01,2014-11-30,6,'020,Andorra,23014,Food price inflation,6121,Value,7011,November,2014,2014,%,2.660944,E,
+AND,2015-11-01,2015-11-30,6,'020,Andorra,23014,Food price inflation,6121,Value,7011,November,2015,2015,%,1.114827,E,
+AND,2016-11-01,2016-11-30,6,'020,Andorra,23014,Food price inflation,6121,Value,7011,November,2016,2016,%,0.110254,E,
+AND,2017-11-01,2017-11-30,6,'020,Andorra,23014,Food price inflation,6121,Value,7011,November,2017,2017,%,4.074890,E,
+AND,2018-11-01,2018-11-30,6,'020,Andorra,23014,Food price inflation,6121,Value,7011,November,2018,2018,%,1.375661,E,
+AND,2019-11-01,2019-11-30,6,'020,Andorra,23014,Food price inflation,6121,Value,7011,November,2019,2019,%,1.356994,E,
+AND,2020-11-01,2020-11-30,6,'020,Andorra,23014,Food price inflation,6121,Value,7011,November,2020,2020,%,1.750772,E,
+AND,2021-11-01,2021-11-30,6,'020,Andorra,23014,Food price inflation,6121,Value,7011,November,2021,2021,%,2.429150,E,
+AND,2022-11-01,2022-11-30,6,'020,Andorra,23014,Food price inflation,6121,Value,7011,November,2022,2022,%,12.648221,E,
+AND,2023-11-01,2023-11-30,6,'020,Andorra,23014,Food price inflation,6121,Value,7011,November,2023,2023,%,9.210526,E,
+AND,2001-12-01,2001-12-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7012,December,2001,2001,%,4.408846,E,
+AND,2002-12-01,2002-12-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7012,December,2002,2002,%,4.838710,E,
+AND,2003-12-01,2003-12-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7012,December,2003,2003,%,2.797203,E,
+AND,2004-12-01,2004-12-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7012,December,2004,2004,%,1.768707,E,
+AND,2005-12-01,2005-12-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7012,December,2005,2005,%,2.139037,E,
+AND,2006-12-01,2006-12-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7012,December,2006,2006,%,2.356021,E,
+AND,2007-12-01,2007-12-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7012,December,2007,2007,%,1.534527,E,
+AND,2008-12-01,2008-12-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7012,December,2008,2008,%,5.163728,E,
+AND,2009-12-01,2009-12-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7012,December,2009,2009,%,-0.718563,E,
+AND,2010-12-01,2010-12-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7012,December,2010,2010,%,0.120627,E,
+AND,2011-12-01,2011-12-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7012,December,2011,2011,%,0.722892,E,
+AND,2012-12-01,2012-12-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7012,December,2012,2012,%,2.870813,E,
+AND,2013-12-01,2013-12-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7012,December,2013,2013,%,1.744186,E,
+AND,2014-12-01,2014-12-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7012,December,2014,2014,%,1.371429,E,
+AND,2015-12-01,2015-12-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7012,December,2015,2015,%,1.691094,E,
+AND,2016-12-01,2016-12-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7012,December,2016,2016,%,1.552106,E,
+AND,2017-12-01,2017-12-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7012,December,2017,2017,%,2.838428,E,
+AND,2018-12-01,2018-12-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7012,December,2018,2018,%,1.910828,E,
+AND,2019-12-01,2019-12-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7012,December,2019,2019,%,1.562500,E,
+AND,2020-12-01,2020-12-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7012,December,2020,2020,%,1.025641,E,
+AND,2021-12-01,2021-12-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7012,December,2021,2021,%,3.045685,E,
+AND,2022-12-01,2022-12-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7012,December,2022,2022,%,13.497537,E,
+AND,2023-12-01,2023-12-31,6,'020,Andorra,23014,Food price inflation,6121,Value,7012,December,2023,2023,%,8.680556,E,
